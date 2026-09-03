@@ -1,0 +1,4805 @@
+{
+  "employees": {
+    "keys": [
+      "employee_code"
+    ],
+    "by_key": {
+      "th79-nv0001": 1,
+      "th79-nv0002": 2,
+      "th79-nv0003": 3,
+      "th79-nv0004": 4,
+      "th79-nv0005": 5,
+      "th79-nv0006": 6,
+      "th79-nv0007": 7,
+      "th79-nv0008": 8,
+      "th79-nv0009": 9,
+      "th79-nv0010": 10,
+      "th79-nv0011": 11,
+      "th79-nv0012": 12,
+      "th79-nv0013": 13,
+      "th79-nv0014": 14,
+      "th79-nv0015": 15,
+      "th79-nv0016": 16,
+      "th79-nv0017": 17,
+      "th79-nv0018": 18,
+      "th79-nv0019": 19,
+      "th79-nv0020": 20,
+      "th79-nv0021": 21,
+      "th79-nv0022": 22,
+      "th79-nv0023": 23,
+      "th79-nv0024": 24,
+      "th79-nv0025": 25,
+      "th79-nv0026": 26,
+      "th79-nv0027": 27,
+      "th79-nv0028": 28,
+      "th79-nv0029": 29,
+      "th79-nv0030": 30,
+      "th79-nv0031": 31,
+      "th79-nv0032": 32,
+      "th79-nv0033": 33,
+      "th79-nv0034": 34,
+      "th79-nv0035": 35,
+      "th79-nv0036": 36,
+      "th79-nv0037": 37,
+      "th79-nv0038": 38,
+      "th79-nv0039": 39,
+      "th79-nv0040": 40,
+      "th79-nv0041": 41,
+      "th79-nv0042": 42,
+      "th79-nv0043": 43,
+      "th79-nv0044": 44,
+      "th79-nv0045": 45,
+      "th79-nv0046": 46,
+      "th79-nv0047": 47,
+      "th79-nv0048": 48,
+      "th79-nv0049": 49,
+      "th79-nv0050": 50,
+      "th79-nv0051": 51,
+      "th79-nv0052": 52,
+      "th79-nv0053": 53,
+      "th79-nv0054": 54,
+      "th79-nv0055": 55,
+      "th79-nv0056": 56,
+      "th79-nv0057": 57,
+      "th79-nv0058": 58,
+      "th79-nv0059": 59,
+      "th79-nv0060": 60,
+      "th79-nv0061": 61,
+      "th79-nv0062": 62,
+      "th79-nv0063": 63,
+      "th79-nv0064": 64
+    },
+    "by_id": {
+      "1": {
+        "employee_code": "TH79-NV0001"
+      },
+      "2": {
+        "employee_code": "TH79-NV0002"
+      },
+      "3": {
+        "employee_code": "TH79-NV0003"
+      },
+      "4": {
+        "employee_code": "TH79-NV0004"
+      },
+      "5": {
+        "employee_code": "TH79-NV0005"
+      },
+      "6": {
+        "employee_code": "TH79-NV0006"
+      },
+      "7": {
+        "employee_code": "TH79-NV0007"
+      },
+      "8": {
+        "employee_code": "TH79-NV0008"
+      },
+      "9": {
+        "employee_code": "TH79-NV0009"
+      },
+      "10": {
+        "employee_code": "TH79-NV0010"
+      },
+      "11": {
+        "employee_code": "TH79-NV0011"
+      },
+      "12": {
+        "employee_code": "TH79-NV0012"
+      },
+      "13": {
+        "employee_code": "TH79-NV0013"
+      },
+      "14": {
+        "employee_code": "TH79-NV0014"
+      },
+      "15": {
+        "employee_code": "TH79-NV0015"
+      },
+      "16": {
+        "employee_code": "TH79-NV0016"
+      },
+      "17": {
+        "employee_code": "TH79-NV0017"
+      },
+      "18": {
+        "employee_code": "TH79-NV0018"
+      },
+      "19": {
+        "employee_code": "TH79-NV0019"
+      },
+      "20": {
+        "employee_code": "TH79-NV0020"
+      },
+      "21": {
+        "employee_code": "TH79-NV0021"
+      },
+      "22": {
+        "employee_code": "TH79-NV0022"
+      },
+      "23": {
+        "employee_code": "TH79-NV0023"
+      },
+      "24": {
+        "employee_code": "TH79-NV0024"
+      },
+      "25": {
+        "employee_code": "TH79-NV0025"
+      },
+      "26": {
+        "employee_code": "TH79-NV0026"
+      },
+      "27": {
+        "employee_code": "TH79-NV0027"
+      },
+      "28": {
+        "employee_code": "TH79-NV0028"
+      },
+      "29": {
+        "employee_code": "TH79-NV0029"
+      },
+      "30": {
+        "employee_code": "TH79-NV0030"
+      },
+      "31": {
+        "employee_code": "TH79-NV0031"
+      },
+      "32": {
+        "employee_code": "TH79-NV0032"
+      },
+      "33": {
+        "employee_code": "TH79-NV0033"
+      },
+      "34": {
+        "employee_code": "TH79-NV0034"
+      },
+      "35": {
+        "employee_code": "TH79-NV0035"
+      },
+      "36": {
+        "employee_code": "TH79-NV0036"
+      },
+      "37": {
+        "employee_code": "TH79-NV0037"
+      },
+      "38": {
+        "employee_code": "TH79-NV0038"
+      },
+      "39": {
+        "employee_code": "TH79-NV0039"
+      },
+      "40": {
+        "employee_code": "TH79-NV0040"
+      },
+      "41": {
+        "employee_code": "TH79-NV0041"
+      },
+      "42": {
+        "employee_code": "TH79-NV0042"
+      },
+      "43": {
+        "employee_code": "TH79-NV0043"
+      },
+      "44": {
+        "employee_code": "TH79-NV0044"
+      },
+      "45": {
+        "employee_code": "TH79-NV0045"
+      },
+      "46": {
+        "employee_code": "TH79-NV0046"
+      },
+      "47": {
+        "employee_code": "TH79-NV0047"
+      },
+      "48": {
+        "employee_code": "TH79-NV0048"
+      },
+      "49": {
+        "employee_code": "TH79-NV0049"
+      },
+      "50": {
+        "employee_code": "TH79-NV0050"
+      },
+      "51": {
+        "employee_code": "TH79-NV0051"
+      },
+      "52": {
+        "employee_code": "TH79-NV0052"
+      },
+      "53": {
+        "employee_code": "TH79-NV0053"
+      },
+      "54": {
+        "employee_code": "TH79-NV0054"
+      },
+      "55": {
+        "employee_code": "TH79-NV0055"
+      },
+      "56": {
+        "employee_code": "TH79-NV0056"
+      },
+      "57": {
+        "employee_code": "TH79-NV0057"
+      },
+      "58": {
+        "employee_code": "TH79-NV0058"
+      },
+      "59": {
+        "employee_code": "TH79-NV0059"
+      },
+      "60": {
+        "employee_code": "TH79-NV0060"
+      },
+      "61": {
+        "employee_code": "TH79-NV0061"
+      },
+      "62": {
+        "employee_code": "TH79-NV0062"
+      },
+      "63": {
+        "employee_code": "TH79-NV0063"
+      },
+      "64": {
+        "employee_code": "TH79-NV0064"
+      }
+    }
+  },
+  "branches": {
+    "keys": [
+      "branch_code"
+    ],
+    "by_key": {
+      "cn001": 1,
+      "cn002": 2,
+      "cn003": 3,
+      "cn004": 4,
+      "cn005": 5,
+      "cn006": 6,
+      "cn007": 7,
+      "cn008": 8,
+      "cn009": 9
+    },
+    "by_id": {
+      "1": {
+        "branch_code": "CN001"
+      },
+      "2": {
+        "branch_code": "CN002"
+      },
+      "3": {
+        "branch_code": "CN003"
+      },
+      "4": {
+        "branch_code": "CN004"
+      },
+      "5": {
+        "branch_code": "CN005"
+      },
+      "6": {
+        "branch_code": "CN006"
+      },
+      "7": {
+        "branch_code": "CN007"
+      },
+      "8": {
+        "branch_code": "CN008"
+      },
+      "9": {
+        "branch_code": "CN009"
+      }
+    }
+  },
+  "departments": {
+    "keys": [
+      "department_code"
+    ],
+    "by_key": {
+      "bgd": 1,
+      "kt": 2,
+      "hc": 3,
+      "pc": 4,
+      "kth": 5,
+      "mkt": 6,
+      "kd": 7,
+      "vh": 8,
+      "da": 9
+    },
+    "by_id": {
+      "1": {
+        "department_code": "BGD"
+      },
+      "2": {
+        "department_code": "KT"
+      },
+      "3": {
+        "department_code": "HC"
+      },
+      "4": {
+        "department_code": "PC"
+      },
+      "5": {
+        "department_code": "KTH"
+      },
+      "6": {
+        "department_code": "MKT"
+      },
+      "7": {
+        "department_code": "KD"
+      },
+      "8": {
+        "department_code": "VH"
+      },
+      "9": {
+        "department_code": "DA"
+      }
+    }
+  },
+  "positions": {
+    "keys": [
+      "position_code"
+    ],
+    "by_key": {
+      "cv001": 1,
+      "cv002": 2,
+      "cv003": 3,
+      "cv004": 4,
+      "cv005": 5,
+      "cv006": 6,
+      "cv007": 7,
+      "cv008": 8,
+      "cv009": 9,
+      "cv010": 10,
+      "cv011": 11,
+      "cv012": 12,
+      "cv013": 13,
+      "cv014": 14,
+      "cv015": 15,
+      "cv016": 16
+    },
+    "by_id": {
+      "1": {
+        "position_code": "CV001"
+      },
+      "2": {
+        "position_code": "CV002"
+      },
+      "3": {
+        "position_code": "CV003"
+      },
+      "4": {
+        "position_code": "CV004"
+      },
+      "5": {
+        "position_code": "CV005"
+      },
+      "6": {
+        "position_code": "CV006"
+      },
+      "7": {
+        "position_code": "CV007"
+      },
+      "8": {
+        "position_code": "CV008"
+      },
+      "9": {
+        "position_code": "CV009"
+      },
+      "10": {
+        "position_code": "CV010"
+      },
+      "11": {
+        "position_code": "CV011"
+      },
+      "12": {
+        "position_code": "CV012"
+      },
+      "13": {
+        "position_code": "CV013"
+      },
+      "14": {
+        "position_code": "CV014"
+      },
+      "15": {
+        "position_code": "CV015"
+      },
+      "16": {
+        "position_code": "CV016"
+      }
+    }
+  },
+  "contract_statuses": {
+    "keys": [
+      "status_code"
+    ],
+    "by_key": {
+      "official": 1,
+      "probation": 2
+    },
+    "by_id": {
+      "1": {
+        "status_code": "OFFICIAL"
+      },
+      "2": {
+        "status_code": "PROBATION"
+      }
+    }
+  },
+  "contract_types": {
+    "keys": [
+      "contract_type_code"
+    ],
+    "by_key": {
+      "probation": 1,
+      "fixed_term": 2,
+      "indefinite": 3
+    },
+    "by_id": {
+      "1": {
+        "contract_type_code": "PROBATION"
+      },
+      "2": {
+        "contract_type_code": "FIXED_TERM"
+      },
+      "3": {
+        "contract_type_code": "INDEFINITE"
+      }
+    }
+  },
+  "document_types": {
+    "keys": [
+      "document_code"
+    ],
+    "by_key": {
+      "syll": 1,
+      "health_check": 2,
+      "cccd_copy": 3,
+      "degree_copy": 4
+    },
+    "by_id": {
+      "1": {
+        "document_code": "SYLL"
+      },
+      "2": {
+        "document_code": "HEALTH_CHECK"
+      },
+      "3": {
+        "document_code": "CCCD_COPY"
+      },
+      "4": {
+        "document_code": "DEGREE_COPY"
+      }
+    }
+  },
+  "permissions": {
+    "keys": [
+      "permission_code"
+    ],
+    "by_key": {
+      "employee.view": 1,
+      "employee.create": 2,
+      "employee.update": 3,
+      "employee.delete": 4,
+      "document.view": 5,
+      "document.upload": 6,
+      "contract.view": 7,
+      "contract.manage": 8,
+      "attendance.view": 9,
+      "attendance.manage": 10,
+      "payroll.view": 11,
+      "payroll.manage": 12,
+      "recruitment.manage": 13,
+      "training.manage": 14,
+      "system.manage": 15,
+      "employee.import": 16,
+      "contract.upload": 17,
+      "audit.view": 18,
+      "dashboard.view": 19,
+      "employee.sensitive.view": 20,
+      "document.delete": 21,
+      "recruitment.view": 22,
+      "training.view": 23,
+      "report.view": 24,
+      "organization.view": 25,
+      "organization.manage": 26,
+      "user.view": 27,
+      "user.manage": 28,
+      "role.view": 29,
+      "role.manage": 30
+    },
+    "by_id": {
+      "1": {
+        "permission_code": "employee.view"
+      },
+      "2": {
+        "permission_code": "employee.create"
+      },
+      "3": {
+        "permission_code": "employee.update"
+      },
+      "4": {
+        "permission_code": "employee.delete"
+      },
+      "5": {
+        "permission_code": "document.view"
+      },
+      "6": {
+        "permission_code": "document.upload"
+      },
+      "7": {
+        "permission_code": "contract.view"
+      },
+      "8": {
+        "permission_code": "contract.manage"
+      },
+      "9": {
+        "permission_code": "attendance.view"
+      },
+      "10": {
+        "permission_code": "attendance.manage"
+      },
+      "11": {
+        "permission_code": "payroll.view"
+      },
+      "12": {
+        "permission_code": "payroll.manage"
+      },
+      "13": {
+        "permission_code": "recruitment.manage"
+      },
+      "14": {
+        "permission_code": "training.manage"
+      },
+      "15": {
+        "permission_code": "system.manage"
+      },
+      "16": {
+        "permission_code": "employee.import"
+      },
+      "17": {
+        "permission_code": "contract.upload"
+      },
+      "18": {
+        "permission_code": "audit.view"
+      },
+      "19": {
+        "permission_code": "dashboard.view"
+      },
+      "20": {
+        "permission_code": "employee.sensitive.view"
+      },
+      "21": {
+        "permission_code": "document.delete"
+      },
+      "22": {
+        "permission_code": "recruitment.view"
+      },
+      "23": {
+        "permission_code": "training.view"
+      },
+      "24": {
+        "permission_code": "report.view"
+      },
+      "25": {
+        "permission_code": "organization.view"
+      },
+      "26": {
+        "permission_code": "organization.manage"
+      },
+      "27": {
+        "permission_code": "user.view"
+      },
+      "28": {
+        "permission_code": "user.manage"
+      },
+      "29": {
+        "permission_code": "role.view"
+      },
+      "30": {
+        "permission_code": "role.manage"
+      }
+    }
+  },
+  "roles": {
+    "keys": [
+      "role_code"
+    ],
+    "by_key": {
+      "admin": 1,
+      "hr": 2,
+      "manager": 3,
+      "employee": 4,
+      "accountant": 6,
+      "hcns": 7,
+      "van_thu": 8,
+      "custom_admin": 9
+    },
+    "by_id": {
+      "1": {
+        "role_code": "ADMIN"
+      },
+      "2": {
+        "role_code": "HR"
+      },
+      "3": {
+        "role_code": "MANAGER"
+      },
+      "4": {
+        "role_code": "EMPLOYEE"
+      },
+      "6": {
+        "role_code": "ACCOUNTANT"
+      },
+      "7": {
+        "role_code": "HCNS"
+      },
+      "8": {
+        "role_code": "VAN_THU"
+      },
+      "9": {
+        "role_code": "CUSTOM_ADMIN"
+      }
+    }
+  },
+  "users": {
+    "keys": [
+      "username"
+    ],
+    "by_key": {
+      "admin": 1,
+      "minhhuy": 2
+    },
+    "by_id": {
+      "1": {
+        "username": "admin"
+      },
+      "2": {
+        "username": "minhhuy"
+      }
+    }
+  },
+  "employee_documents": {
+    "keys": [
+      "employee_id",
+      "document_type_id"
+    ],
+    "by_key": {
+      "1|1": 1,
+      "1|2": 2,
+      "1|3": 3,
+      "1|4": 4,
+      "2|1": 5,
+      "2|2": 6,
+      "2|3": 7,
+      "2|4": 8,
+      "3|1": 9,
+      "3|2": 10,
+      "3|3": 11,
+      "3|4": 12,
+      "4|1": 13,
+      "4|2": 14,
+      "4|3": 15,
+      "4|4": 16,
+      "5|1": 17,
+      "5|2": 18,
+      "5|3": 19,
+      "5|4": 20,
+      "6|1": 21,
+      "6|2": 22,
+      "6|3": 23,
+      "6|4": 24,
+      "7|1": 25,
+      "7|2": 26,
+      "7|3": 27,
+      "7|4": 28,
+      "8|1": 29,
+      "8|2": 30,
+      "8|3": 31,
+      "8|4": 32,
+      "9|1": 33,
+      "9|2": 34,
+      "9|3": 35,
+      "9|4": 36,
+      "10|1": 37,
+      "10|2": 38,
+      "10|3": 39,
+      "10|4": 40,
+      "11|1": 41,
+      "11|2": 42,
+      "11|3": 43,
+      "11|4": 44,
+      "12|1": 45,
+      "12|2": 46,
+      "12|3": 47,
+      "12|4": 48,
+      "13|1": 49,
+      "13|2": 50,
+      "13|3": 51,
+      "13|4": 52,
+      "14|1": 53,
+      "14|2": 54,
+      "14|3": 55,
+      "14|4": 56,
+      "15|1": 57,
+      "15|2": 58,
+      "15|3": 59,
+      "15|4": 60,
+      "16|1": 61,
+      "16|2": 62,
+      "16|3": 63,
+      "16|4": 64,
+      "17|1": 65,
+      "17|2": 66,
+      "17|3": 67,
+      "17|4": 68,
+      "18|1": 69,
+      "18|2": 70,
+      "18|3": 71,
+      "18|4": 72,
+      "19|1": 73,
+      "19|2": 74,
+      "19|3": 75,
+      "19|4": 76,
+      "20|1": 77,
+      "20|2": 78,
+      "20|3": 79,
+      "20|4": 80,
+      "21|1": 81,
+      "21|2": 82,
+      "21|3": 83,
+      "21|4": 84,
+      "22|1": 85,
+      "22|2": 86,
+      "22|3": 87,
+      "22|4": 88,
+      "23|1": 89,
+      "23|2": 90,
+      "23|3": 91,
+      "23|4": 92,
+      "24|1": 93,
+      "24|2": 94,
+      "24|3": 95,
+      "24|4": 96,
+      "25|1": 97,
+      "25|2": 98,
+      "25|3": 99,
+      "25|4": 100,
+      "26|1": 101,
+      "26|2": 102,
+      "26|3": 103,
+      "26|4": 104,
+      "27|1": 105,
+      "27|2": 106,
+      "27|3": 107,
+      "27|4": 108,
+      "28|1": 109,
+      "28|2": 110,
+      "28|3": 111,
+      "28|4": 112,
+      "29|1": 113,
+      "29|2": 114,
+      "29|3": 115,
+      "29|4": 116,
+      "30|1": 117,
+      "30|2": 118,
+      "30|3": 119,
+      "30|4": 120,
+      "31|1": 121,
+      "31|2": 122,
+      "31|3": 123,
+      "31|4": 124,
+      "32|1": 125,
+      "32|2": 126,
+      "32|3": 127,
+      "32|4": 128,
+      "33|1": 129,
+      "33|2": 130,
+      "33|3": 131,
+      "33|4": 132,
+      "34|1": 133,
+      "34|2": 134,
+      "34|3": 135,
+      "34|4": 136,
+      "35|1": 137,
+      "35|2": 138,
+      "35|3": 139,
+      "35|4": 140,
+      "36|1": 141,
+      "36|2": 142,
+      "36|3": 143,
+      "36|4": 144,
+      "37|1": 145,
+      "37|2": 146,
+      "37|3": 147,
+      "37|4": 148,
+      "38|1": 149,
+      "38|2": 150,
+      "38|3": 151,
+      "38|4": 152,
+      "39|1": 153,
+      "39|2": 154,
+      "39|3": 155,
+      "39|4": 156,
+      "40|1": 157,
+      "40|2": 158,
+      "40|3": 159,
+      "40|4": 160,
+      "41|1": 161,
+      "41|2": 162,
+      "41|3": 163,
+      "41|4": 164,
+      "42|1": 165,
+      "42|2": 166,
+      "42|3": 167,
+      "42|4": 168,
+      "43|1": 169,
+      "43|2": 170,
+      "43|3": 171,
+      "43|4": 172,
+      "44|1": 173,
+      "44|2": 174,
+      "44|3": 175,
+      "44|4": 176,
+      "45|1": 177,
+      "45|2": 178,
+      "45|3": 179,
+      "45|4": 180,
+      "46|1": 181,
+      "46|2": 182,
+      "46|3": 183,
+      "46|4": 184,
+      "47|1": 185,
+      "47|2": 186,
+      "47|3": 187,
+      "47|4": 188,
+      "48|1": 189,
+      "48|2": 190,
+      "48|3": 191,
+      "48|4": 192,
+      "49|1": 193,
+      "49|2": 194,
+      "49|3": 195,
+      "49|4": 196,
+      "50|1": 197,
+      "50|2": 198,
+      "50|3": 199,
+      "50|4": 200,
+      "51|1": 201,
+      "51|2": 202,
+      "51|3": 203,
+      "51|4": 204,
+      "52|1": 205,
+      "52|2": 206,
+      "52|3": 207,
+      "52|4": 208,
+      "53|1": 209,
+      "53|2": 210,
+      "53|3": 211,
+      "53|4": 212,
+      "54|1": 213,
+      "54|2": 214,
+      "54|3": 215,
+      "54|4": 216,
+      "55|1": 217,
+      "55|2": 218,
+      "55|3": 219,
+      "55|4": 220,
+      "56|1": 221,
+      "56|2": 222,
+      "56|3": 223,
+      "56|4": 224,
+      "57|1": 225,
+      "57|2": 226,
+      "57|3": 227,
+      "57|4": 228,
+      "58|1": 229,
+      "58|2": 230,
+      "58|3": 231,
+      "58|4": 232,
+      "59|1": 233,
+      "59|2": 234,
+      "59|3": 235,
+      "59|4": 236,
+      "60|1": 237,
+      "60|2": 238,
+      "60|3": 239,
+      "60|4": 240,
+      "61|1": 241,
+      "61|2": 242,
+      "61|3": 243,
+      "61|4": 244,
+      "62|1": 245,
+      "62|2": 246,
+      "62|3": 247,
+      "62|4": 248,
+      "63|1": 249,
+      "63|2": 250,
+      "63|3": 251,
+      "63|4": 252,
+      "64|1": 253,
+      "64|2": 254,
+      "64|3": 255,
+      "64|4": 256
+    },
+    "by_id": {
+      "1": {
+        "employee_id": 1,
+        "document_type_id": 1
+      },
+      "2": {
+        "employee_id": 1,
+        "document_type_id": 2
+      },
+      "3": {
+        "employee_id": 1,
+        "document_type_id": 3
+      },
+      "4": {
+        "employee_id": 1,
+        "document_type_id": 4
+      },
+      "5": {
+        "employee_id": 2,
+        "document_type_id": 1
+      },
+      "6": {
+        "employee_id": 2,
+        "document_type_id": 2
+      },
+      "7": {
+        "employee_id": 2,
+        "document_type_id": 3
+      },
+      "8": {
+        "employee_id": 2,
+        "document_type_id": 4
+      },
+      "9": {
+        "employee_id": 3,
+        "document_type_id": 1
+      },
+      "10": {
+        "employee_id": 3,
+        "document_type_id": 2
+      },
+      "11": {
+        "employee_id": 3,
+        "document_type_id": 3
+      },
+      "12": {
+        "employee_id": 3,
+        "document_type_id": 4
+      },
+      "13": {
+        "employee_id": 4,
+        "document_type_id": 1
+      },
+      "14": {
+        "employee_id": 4,
+        "document_type_id": 2
+      },
+      "15": {
+        "employee_id": 4,
+        "document_type_id": 3
+      },
+      "16": {
+        "employee_id": 4,
+        "document_type_id": 4
+      },
+      "17": {
+        "employee_id": 5,
+        "document_type_id": 1
+      },
+      "18": {
+        "employee_id": 5,
+        "document_type_id": 2
+      },
+      "19": {
+        "employee_id": 5,
+        "document_type_id": 3
+      },
+      "20": {
+        "employee_id": 5,
+        "document_type_id": 4
+      },
+      "21": {
+        "employee_id": 6,
+        "document_type_id": 1
+      },
+      "22": {
+        "employee_id": 6,
+        "document_type_id": 2
+      },
+      "23": {
+        "employee_id": 6,
+        "document_type_id": 3
+      },
+      "24": {
+        "employee_id": 6,
+        "document_type_id": 4
+      },
+      "25": {
+        "employee_id": 7,
+        "document_type_id": 1
+      },
+      "26": {
+        "employee_id": 7,
+        "document_type_id": 2
+      },
+      "27": {
+        "employee_id": 7,
+        "document_type_id": 3
+      },
+      "28": {
+        "employee_id": 7,
+        "document_type_id": 4
+      },
+      "29": {
+        "employee_id": 8,
+        "document_type_id": 1
+      },
+      "30": {
+        "employee_id": 8,
+        "document_type_id": 2
+      },
+      "31": {
+        "employee_id": 8,
+        "document_type_id": 3
+      },
+      "32": {
+        "employee_id": 8,
+        "document_type_id": 4
+      },
+      "33": {
+        "employee_id": 9,
+        "document_type_id": 1
+      },
+      "34": {
+        "employee_id": 9,
+        "document_type_id": 2
+      },
+      "35": {
+        "employee_id": 9,
+        "document_type_id": 3
+      },
+      "36": {
+        "employee_id": 9,
+        "document_type_id": 4
+      },
+      "37": {
+        "employee_id": 10,
+        "document_type_id": 1
+      },
+      "38": {
+        "employee_id": 10,
+        "document_type_id": 2
+      },
+      "39": {
+        "employee_id": 10,
+        "document_type_id": 3
+      },
+      "40": {
+        "employee_id": 10,
+        "document_type_id": 4
+      },
+      "41": {
+        "employee_id": 11,
+        "document_type_id": 1
+      },
+      "42": {
+        "employee_id": 11,
+        "document_type_id": 2
+      },
+      "43": {
+        "employee_id": 11,
+        "document_type_id": 3
+      },
+      "44": {
+        "employee_id": 11,
+        "document_type_id": 4
+      },
+      "45": {
+        "employee_id": 12,
+        "document_type_id": 1
+      },
+      "46": {
+        "employee_id": 12,
+        "document_type_id": 2
+      },
+      "47": {
+        "employee_id": 12,
+        "document_type_id": 3
+      },
+      "48": {
+        "employee_id": 12,
+        "document_type_id": 4
+      },
+      "49": {
+        "employee_id": 13,
+        "document_type_id": 1
+      },
+      "50": {
+        "employee_id": 13,
+        "document_type_id": 2
+      },
+      "51": {
+        "employee_id": 13,
+        "document_type_id": 3
+      },
+      "52": {
+        "employee_id": 13,
+        "document_type_id": 4
+      },
+      "53": {
+        "employee_id": 14,
+        "document_type_id": 1
+      },
+      "54": {
+        "employee_id": 14,
+        "document_type_id": 2
+      },
+      "55": {
+        "employee_id": 14,
+        "document_type_id": 3
+      },
+      "56": {
+        "employee_id": 14,
+        "document_type_id": 4
+      },
+      "57": {
+        "employee_id": 15,
+        "document_type_id": 1
+      },
+      "58": {
+        "employee_id": 15,
+        "document_type_id": 2
+      },
+      "59": {
+        "employee_id": 15,
+        "document_type_id": 3
+      },
+      "60": {
+        "employee_id": 15,
+        "document_type_id": 4
+      },
+      "61": {
+        "employee_id": 16,
+        "document_type_id": 1
+      },
+      "62": {
+        "employee_id": 16,
+        "document_type_id": 2
+      },
+      "63": {
+        "employee_id": 16,
+        "document_type_id": 3
+      },
+      "64": {
+        "employee_id": 16,
+        "document_type_id": 4
+      },
+      "65": {
+        "employee_id": 17,
+        "document_type_id": 1
+      },
+      "66": {
+        "employee_id": 17,
+        "document_type_id": 2
+      },
+      "67": {
+        "employee_id": 17,
+        "document_type_id": 3
+      },
+      "68": {
+        "employee_id": 17,
+        "document_type_id": 4
+      },
+      "69": {
+        "employee_id": 18,
+        "document_type_id": 1
+      },
+      "70": {
+        "employee_id": 18,
+        "document_type_id": 2
+      },
+      "71": {
+        "employee_id": 18,
+        "document_type_id": 3
+      },
+      "72": {
+        "employee_id": 18,
+        "document_type_id": 4
+      },
+      "73": {
+        "employee_id": 19,
+        "document_type_id": 1
+      },
+      "74": {
+        "employee_id": 19,
+        "document_type_id": 2
+      },
+      "75": {
+        "employee_id": 19,
+        "document_type_id": 3
+      },
+      "76": {
+        "employee_id": 19,
+        "document_type_id": 4
+      },
+      "77": {
+        "employee_id": 20,
+        "document_type_id": 1
+      },
+      "78": {
+        "employee_id": 20,
+        "document_type_id": 2
+      },
+      "79": {
+        "employee_id": 20,
+        "document_type_id": 3
+      },
+      "80": {
+        "employee_id": 20,
+        "document_type_id": 4
+      },
+      "81": {
+        "employee_id": 21,
+        "document_type_id": 1
+      },
+      "82": {
+        "employee_id": 21,
+        "document_type_id": 2
+      },
+      "83": {
+        "employee_id": 21,
+        "document_type_id": 3
+      },
+      "84": {
+        "employee_id": 21,
+        "document_type_id": 4
+      },
+      "85": {
+        "employee_id": 22,
+        "document_type_id": 1
+      },
+      "86": {
+        "employee_id": 22,
+        "document_type_id": 2
+      },
+      "87": {
+        "employee_id": 22,
+        "document_type_id": 3
+      },
+      "88": {
+        "employee_id": 22,
+        "document_type_id": 4
+      },
+      "89": {
+        "employee_id": 23,
+        "document_type_id": 1
+      },
+      "90": {
+        "employee_id": 23,
+        "document_type_id": 2
+      },
+      "91": {
+        "employee_id": 23,
+        "document_type_id": 3
+      },
+      "92": {
+        "employee_id": 23,
+        "document_type_id": 4
+      },
+      "93": {
+        "employee_id": 24,
+        "document_type_id": 1
+      },
+      "94": {
+        "employee_id": 24,
+        "document_type_id": 2
+      },
+      "95": {
+        "employee_id": 24,
+        "document_type_id": 3
+      },
+      "96": {
+        "employee_id": 24,
+        "document_type_id": 4
+      },
+      "97": {
+        "employee_id": 25,
+        "document_type_id": 1
+      },
+      "98": {
+        "employee_id": 25,
+        "document_type_id": 2
+      },
+      "99": {
+        "employee_id": 25,
+        "document_type_id": 3
+      },
+      "100": {
+        "employee_id": 25,
+        "document_type_id": 4
+      },
+      "101": {
+        "employee_id": 26,
+        "document_type_id": 1
+      },
+      "102": {
+        "employee_id": 26,
+        "document_type_id": 2
+      },
+      "103": {
+        "employee_id": 26,
+        "document_type_id": 3
+      },
+      "104": {
+        "employee_id": 26,
+        "document_type_id": 4
+      },
+      "105": {
+        "employee_id": 27,
+        "document_type_id": 1
+      },
+      "106": {
+        "employee_id": 27,
+        "document_type_id": 2
+      },
+      "107": {
+        "employee_id": 27,
+        "document_type_id": 3
+      },
+      "108": {
+        "employee_id": 27,
+        "document_type_id": 4
+      },
+      "109": {
+        "employee_id": 28,
+        "document_type_id": 1
+      },
+      "110": {
+        "employee_id": 28,
+        "document_type_id": 2
+      },
+      "111": {
+        "employee_id": 28,
+        "document_type_id": 3
+      },
+      "112": {
+        "employee_id": 28,
+        "document_type_id": 4
+      },
+      "113": {
+        "employee_id": 29,
+        "document_type_id": 1
+      },
+      "114": {
+        "employee_id": 29,
+        "document_type_id": 2
+      },
+      "115": {
+        "employee_id": 29,
+        "document_type_id": 3
+      },
+      "116": {
+        "employee_id": 29,
+        "document_type_id": 4
+      },
+      "117": {
+        "employee_id": 30,
+        "document_type_id": 1
+      },
+      "118": {
+        "employee_id": 30,
+        "document_type_id": 2
+      },
+      "119": {
+        "employee_id": 30,
+        "document_type_id": 3
+      },
+      "120": {
+        "employee_id": 30,
+        "document_type_id": 4
+      },
+      "121": {
+        "employee_id": 31,
+        "document_type_id": 1
+      },
+      "122": {
+        "employee_id": 31,
+        "document_type_id": 2
+      },
+      "123": {
+        "employee_id": 31,
+        "document_type_id": 3
+      },
+      "124": {
+        "employee_id": 31,
+        "document_type_id": 4
+      },
+      "125": {
+        "employee_id": 32,
+        "document_type_id": 1
+      },
+      "126": {
+        "employee_id": 32,
+        "document_type_id": 2
+      },
+      "127": {
+        "employee_id": 32,
+        "document_type_id": 3
+      },
+      "128": {
+        "employee_id": 32,
+        "document_type_id": 4
+      },
+      "129": {
+        "employee_id": 33,
+        "document_type_id": 1
+      },
+      "130": {
+        "employee_id": 33,
+        "document_type_id": 2
+      },
+      "131": {
+        "employee_id": 33,
+        "document_type_id": 3
+      },
+      "132": {
+        "employee_id": 33,
+        "document_type_id": 4
+      },
+      "133": {
+        "employee_id": 34,
+        "document_type_id": 1
+      },
+      "134": {
+        "employee_id": 34,
+        "document_type_id": 2
+      },
+      "135": {
+        "employee_id": 34,
+        "document_type_id": 3
+      },
+      "136": {
+        "employee_id": 34,
+        "document_type_id": 4
+      },
+      "137": {
+        "employee_id": 35,
+        "document_type_id": 1
+      },
+      "138": {
+        "employee_id": 35,
+        "document_type_id": 2
+      },
+      "139": {
+        "employee_id": 35,
+        "document_type_id": 3
+      },
+      "140": {
+        "employee_id": 35,
+        "document_type_id": 4
+      },
+      "141": {
+        "employee_id": 36,
+        "document_type_id": 1
+      },
+      "142": {
+        "employee_id": 36,
+        "document_type_id": 2
+      },
+      "143": {
+        "employee_id": 36,
+        "document_type_id": 3
+      },
+      "144": {
+        "employee_id": 36,
+        "document_type_id": 4
+      },
+      "145": {
+        "employee_id": 37,
+        "document_type_id": 1
+      },
+      "146": {
+        "employee_id": 37,
+        "document_type_id": 2
+      },
+      "147": {
+        "employee_id": 37,
+        "document_type_id": 3
+      },
+      "148": {
+        "employee_id": 37,
+        "document_type_id": 4
+      },
+      "149": {
+        "employee_id": 38,
+        "document_type_id": 1
+      },
+      "150": {
+        "employee_id": 38,
+        "document_type_id": 2
+      },
+      "151": {
+        "employee_id": 38,
+        "document_type_id": 3
+      },
+      "152": {
+        "employee_id": 38,
+        "document_type_id": 4
+      },
+      "153": {
+        "employee_id": 39,
+        "document_type_id": 1
+      },
+      "154": {
+        "employee_id": 39,
+        "document_type_id": 2
+      },
+      "155": {
+        "employee_id": 39,
+        "document_type_id": 3
+      },
+      "156": {
+        "employee_id": 39,
+        "document_type_id": 4
+      },
+      "157": {
+        "employee_id": 40,
+        "document_type_id": 1
+      },
+      "158": {
+        "employee_id": 40,
+        "document_type_id": 2
+      },
+      "159": {
+        "employee_id": 40,
+        "document_type_id": 3
+      },
+      "160": {
+        "employee_id": 40,
+        "document_type_id": 4
+      },
+      "161": {
+        "employee_id": 41,
+        "document_type_id": 1
+      },
+      "162": {
+        "employee_id": 41,
+        "document_type_id": 2
+      },
+      "163": {
+        "employee_id": 41,
+        "document_type_id": 3
+      },
+      "164": {
+        "employee_id": 41,
+        "document_type_id": 4
+      },
+      "165": {
+        "employee_id": 42,
+        "document_type_id": 1
+      },
+      "166": {
+        "employee_id": 42,
+        "document_type_id": 2
+      },
+      "167": {
+        "employee_id": 42,
+        "document_type_id": 3
+      },
+      "168": {
+        "employee_id": 42,
+        "document_type_id": 4
+      },
+      "169": {
+        "employee_id": 43,
+        "document_type_id": 1
+      },
+      "170": {
+        "employee_id": 43,
+        "document_type_id": 2
+      },
+      "171": {
+        "employee_id": 43,
+        "document_type_id": 3
+      },
+      "172": {
+        "employee_id": 43,
+        "document_type_id": 4
+      },
+      "173": {
+        "employee_id": 44,
+        "document_type_id": 1
+      },
+      "174": {
+        "employee_id": 44,
+        "document_type_id": 2
+      },
+      "175": {
+        "employee_id": 44,
+        "document_type_id": 3
+      },
+      "176": {
+        "employee_id": 44,
+        "document_type_id": 4
+      },
+      "177": {
+        "employee_id": 45,
+        "document_type_id": 1
+      },
+      "178": {
+        "employee_id": 45,
+        "document_type_id": 2
+      },
+      "179": {
+        "employee_id": 45,
+        "document_type_id": 3
+      },
+      "180": {
+        "employee_id": 45,
+        "document_type_id": 4
+      },
+      "181": {
+        "employee_id": 46,
+        "document_type_id": 1
+      },
+      "182": {
+        "employee_id": 46,
+        "document_type_id": 2
+      },
+      "183": {
+        "employee_id": 46,
+        "document_type_id": 3
+      },
+      "184": {
+        "employee_id": 46,
+        "document_type_id": 4
+      },
+      "185": {
+        "employee_id": 47,
+        "document_type_id": 1
+      },
+      "186": {
+        "employee_id": 47,
+        "document_type_id": 2
+      },
+      "187": {
+        "employee_id": 47,
+        "document_type_id": 3
+      },
+      "188": {
+        "employee_id": 47,
+        "document_type_id": 4
+      },
+      "189": {
+        "employee_id": 48,
+        "document_type_id": 1
+      },
+      "190": {
+        "employee_id": 48,
+        "document_type_id": 2
+      },
+      "191": {
+        "employee_id": 48,
+        "document_type_id": 3
+      },
+      "192": {
+        "employee_id": 48,
+        "document_type_id": 4
+      },
+      "193": {
+        "employee_id": 49,
+        "document_type_id": 1
+      },
+      "194": {
+        "employee_id": 49,
+        "document_type_id": 2
+      },
+      "195": {
+        "employee_id": 49,
+        "document_type_id": 3
+      },
+      "196": {
+        "employee_id": 49,
+        "document_type_id": 4
+      },
+      "197": {
+        "employee_id": 50,
+        "document_type_id": 1
+      },
+      "198": {
+        "employee_id": 50,
+        "document_type_id": 2
+      },
+      "199": {
+        "employee_id": 50,
+        "document_type_id": 3
+      },
+      "200": {
+        "employee_id": 50,
+        "document_type_id": 4
+      },
+      "201": {
+        "employee_id": 51,
+        "document_type_id": 1
+      },
+      "202": {
+        "employee_id": 51,
+        "document_type_id": 2
+      },
+      "203": {
+        "employee_id": 51,
+        "document_type_id": 3
+      },
+      "204": {
+        "employee_id": 51,
+        "document_type_id": 4
+      },
+      "205": {
+        "employee_id": 52,
+        "document_type_id": 1
+      },
+      "206": {
+        "employee_id": 52,
+        "document_type_id": 2
+      },
+      "207": {
+        "employee_id": 52,
+        "document_type_id": 3
+      },
+      "208": {
+        "employee_id": 52,
+        "document_type_id": 4
+      },
+      "209": {
+        "employee_id": 53,
+        "document_type_id": 1
+      },
+      "210": {
+        "employee_id": 53,
+        "document_type_id": 2
+      },
+      "211": {
+        "employee_id": 53,
+        "document_type_id": 3
+      },
+      "212": {
+        "employee_id": 53,
+        "document_type_id": 4
+      },
+      "213": {
+        "employee_id": 54,
+        "document_type_id": 1
+      },
+      "214": {
+        "employee_id": 54,
+        "document_type_id": 2
+      },
+      "215": {
+        "employee_id": 54,
+        "document_type_id": 3
+      },
+      "216": {
+        "employee_id": 54,
+        "document_type_id": 4
+      },
+      "217": {
+        "employee_id": 55,
+        "document_type_id": 1
+      },
+      "218": {
+        "employee_id": 55,
+        "document_type_id": 2
+      },
+      "219": {
+        "employee_id": 55,
+        "document_type_id": 3
+      },
+      "220": {
+        "employee_id": 55,
+        "document_type_id": 4
+      },
+      "221": {
+        "employee_id": 56,
+        "document_type_id": 1
+      },
+      "222": {
+        "employee_id": 56,
+        "document_type_id": 2
+      },
+      "223": {
+        "employee_id": 56,
+        "document_type_id": 3
+      },
+      "224": {
+        "employee_id": 56,
+        "document_type_id": 4
+      },
+      "225": {
+        "employee_id": 57,
+        "document_type_id": 1
+      },
+      "226": {
+        "employee_id": 57,
+        "document_type_id": 2
+      },
+      "227": {
+        "employee_id": 57,
+        "document_type_id": 3
+      },
+      "228": {
+        "employee_id": 57,
+        "document_type_id": 4
+      },
+      "229": {
+        "employee_id": 58,
+        "document_type_id": 1
+      },
+      "230": {
+        "employee_id": 58,
+        "document_type_id": 2
+      },
+      "231": {
+        "employee_id": 58,
+        "document_type_id": 3
+      },
+      "232": {
+        "employee_id": 58,
+        "document_type_id": 4
+      },
+      "233": {
+        "employee_id": 59,
+        "document_type_id": 1
+      },
+      "234": {
+        "employee_id": 59,
+        "document_type_id": 2
+      },
+      "235": {
+        "employee_id": 59,
+        "document_type_id": 3
+      },
+      "236": {
+        "employee_id": 59,
+        "document_type_id": 4
+      },
+      "237": {
+        "employee_id": 60,
+        "document_type_id": 1
+      },
+      "238": {
+        "employee_id": 60,
+        "document_type_id": 2
+      },
+      "239": {
+        "employee_id": 60,
+        "document_type_id": 3
+      },
+      "240": {
+        "employee_id": 60,
+        "document_type_id": 4
+      },
+      "241": {
+        "employee_id": 61,
+        "document_type_id": 1
+      },
+      "242": {
+        "employee_id": 61,
+        "document_type_id": 2
+      },
+      "243": {
+        "employee_id": 61,
+        "document_type_id": 3
+      },
+      "244": {
+        "employee_id": 61,
+        "document_type_id": 4
+      },
+      "245": {
+        "employee_id": 62,
+        "document_type_id": 1
+      },
+      "246": {
+        "employee_id": 62,
+        "document_type_id": 2
+      },
+      "247": {
+        "employee_id": 62,
+        "document_type_id": 3
+      },
+      "248": {
+        "employee_id": 62,
+        "document_type_id": 4
+      },
+      "249": {
+        "employee_id": 63,
+        "document_type_id": 1
+      },
+      "250": {
+        "employee_id": 63,
+        "document_type_id": 2
+      },
+      "251": {
+        "employee_id": 63,
+        "document_type_id": 3
+      },
+      "252": {
+        "employee_id": 63,
+        "document_type_id": 4
+      },
+      "253": {
+        "employee_id": 64,
+        "document_type_id": 1
+      },
+      "254": {
+        "employee_id": 64,
+        "document_type_id": 2
+      },
+      "255": {
+        "employee_id": 64,
+        "document_type_id": 3
+      },
+      "256": {
+        "employee_id": 64,
+        "document_type_id": 4
+      }
+    }
+  },
+  "onboarding_cases": {
+    "keys": [
+      "employee_id"
+    ],
+    "by_key": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "24": 24,
+      "25": 25,
+      "26": 26,
+      "27": 27,
+      "28": 28,
+      "29": 29,
+      "30": 30,
+      "31": 31,
+      "32": 32,
+      "33": 33,
+      "34": 34,
+      "35": 35,
+      "36": 36,
+      "37": 37,
+      "38": 38,
+      "39": 39,
+      "40": 40,
+      "41": 41,
+      "42": 42,
+      "43": 43,
+      "44": 44,
+      "45": 45,
+      "46": 46,
+      "47": 47,
+      "48": 48,
+      "49": 49,
+      "50": 50,
+      "51": 51,
+      "52": 52,
+      "53": 53,
+      "54": 54,
+      "55": 55,
+      "56": 56,
+      "57": 57,
+      "58": 58,
+      "59": 59,
+      "60": 60,
+      "61": 61,
+      "62": 62,
+      "63": 63,
+      "64": 64
+    },
+    "by_id": {
+      "1": {
+        "employee_id": 1
+      },
+      "2": {
+        "employee_id": 2
+      },
+      "3": {
+        "employee_id": 3
+      },
+      "4": {
+        "employee_id": 4
+      },
+      "5": {
+        "employee_id": 5
+      },
+      "6": {
+        "employee_id": 6
+      },
+      "7": {
+        "employee_id": 7
+      },
+      "8": {
+        "employee_id": 8
+      },
+      "9": {
+        "employee_id": 9
+      },
+      "10": {
+        "employee_id": 10
+      },
+      "11": {
+        "employee_id": 11
+      },
+      "12": {
+        "employee_id": 12
+      },
+      "13": {
+        "employee_id": 13
+      },
+      "14": {
+        "employee_id": 14
+      },
+      "15": {
+        "employee_id": 15
+      },
+      "16": {
+        "employee_id": 16
+      },
+      "17": {
+        "employee_id": 17
+      },
+      "18": {
+        "employee_id": 18
+      },
+      "19": {
+        "employee_id": 19
+      },
+      "20": {
+        "employee_id": 20
+      },
+      "21": {
+        "employee_id": 21
+      },
+      "22": {
+        "employee_id": 22
+      },
+      "23": {
+        "employee_id": 23
+      },
+      "24": {
+        "employee_id": 24
+      },
+      "25": {
+        "employee_id": 25
+      },
+      "26": {
+        "employee_id": 26
+      },
+      "27": {
+        "employee_id": 27
+      },
+      "28": {
+        "employee_id": 28
+      },
+      "29": {
+        "employee_id": 29
+      },
+      "30": {
+        "employee_id": 30
+      },
+      "31": {
+        "employee_id": 31
+      },
+      "32": {
+        "employee_id": 32
+      },
+      "33": {
+        "employee_id": 33
+      },
+      "34": {
+        "employee_id": 34
+      },
+      "35": {
+        "employee_id": 35
+      },
+      "36": {
+        "employee_id": 36
+      },
+      "37": {
+        "employee_id": 37
+      },
+      "38": {
+        "employee_id": 38
+      },
+      "39": {
+        "employee_id": 39
+      },
+      "40": {
+        "employee_id": 40
+      },
+      "41": {
+        "employee_id": 41
+      },
+      "42": {
+        "employee_id": 42
+      },
+      "43": {
+        "employee_id": 43
+      },
+      "44": {
+        "employee_id": 44
+      },
+      "45": {
+        "employee_id": 45
+      },
+      "46": {
+        "employee_id": 46
+      },
+      "47": {
+        "employee_id": 47
+      },
+      "48": {
+        "employee_id": 48
+      },
+      "49": {
+        "employee_id": 49
+      },
+      "50": {
+        "employee_id": 50
+      },
+      "51": {
+        "employee_id": 51
+      },
+      "52": {
+        "employee_id": 52
+      },
+      "53": {
+        "employee_id": 53
+      },
+      "54": {
+        "employee_id": 54
+      },
+      "55": {
+        "employee_id": 55
+      },
+      "56": {
+        "employee_id": 56
+      },
+      "57": {
+        "employee_id": 57
+      },
+      "58": {
+        "employee_id": 58
+      },
+      "59": {
+        "employee_id": 59
+      },
+      "60": {
+        "employee_id": 60
+      },
+      "61": {
+        "employee_id": 61
+      },
+      "62": {
+        "employee_id": 62
+      },
+      "63": {
+        "employee_id": 63
+      },
+      "64": {
+        "employee_id": 64
+      }
+    }
+  },
+  "onboarding_tasks": {
+    "keys": [
+      "case_id",
+      "task_code"
+    ],
+    "by_key": {
+      "1|profile_core": 1,
+      "1|doc_syll": 2,
+      "1|doc_health_check": 3,
+      "1|doc_cccd_copy": 4,
+      "1|doc_degree_copy": 5,
+      "1|account": 6,
+      "1|contract": 7,
+      "1|orientation": 8,
+      "2|profile_core": 9,
+      "2|doc_syll": 10,
+      "2|doc_health_check": 11,
+      "2|doc_cccd_copy": 12,
+      "2|doc_degree_copy": 13,
+      "2|account": 14,
+      "2|contract": 15,
+      "2|orientation": 16,
+      "3|profile_core": 17,
+      "3|doc_syll": 18,
+      "3|doc_health_check": 19,
+      "3|doc_cccd_copy": 20,
+      "3|doc_degree_copy": 21,
+      "3|account": 22,
+      "3|contract": 23,
+      "3|orientation": 24,
+      "4|profile_core": 25,
+      "4|doc_syll": 26,
+      "4|doc_health_check": 27,
+      "4|doc_cccd_copy": 28,
+      "4|doc_degree_copy": 29,
+      "4|account": 30,
+      "4|contract": 31,
+      "4|orientation": 32,
+      "5|profile_core": 33,
+      "5|doc_syll": 34,
+      "5|doc_health_check": 35,
+      "5|doc_cccd_copy": 36,
+      "5|doc_degree_copy": 37,
+      "5|account": 38,
+      "5|contract": 39,
+      "5|orientation": 40,
+      "6|profile_core": 41,
+      "6|doc_syll": 42,
+      "6|doc_health_check": 43,
+      "6|doc_cccd_copy": 44,
+      "6|doc_degree_copy": 45,
+      "6|account": 46,
+      "6|contract": 47,
+      "6|orientation": 48,
+      "7|profile_core": 49,
+      "7|doc_syll": 50,
+      "7|doc_health_check": 51,
+      "7|doc_cccd_copy": 52,
+      "7|doc_degree_copy": 53,
+      "7|account": 54,
+      "7|contract": 55,
+      "7|orientation": 56,
+      "8|profile_core": 57,
+      "8|doc_syll": 58,
+      "8|doc_health_check": 59,
+      "8|doc_cccd_copy": 60,
+      "8|doc_degree_copy": 61,
+      "8|account": 62,
+      "8|contract": 63,
+      "8|orientation": 64,
+      "9|profile_core": 65,
+      "9|doc_syll": 66,
+      "9|doc_health_check": 67,
+      "9|doc_cccd_copy": 68,
+      "9|doc_degree_copy": 69,
+      "9|account": 70,
+      "9|contract": 71,
+      "9|orientation": 72,
+      "10|profile_core": 73,
+      "10|doc_syll": 74,
+      "10|doc_health_check": 75,
+      "10|doc_cccd_copy": 76,
+      "10|doc_degree_copy": 77,
+      "10|account": 78,
+      "10|contract": 79,
+      "10|orientation": 80,
+      "11|profile_core": 81,
+      "11|doc_syll": 82,
+      "11|doc_health_check": 83,
+      "11|doc_cccd_copy": 84,
+      "11|doc_degree_copy": 85,
+      "11|account": 86,
+      "11|contract": 87,
+      "11|orientation": 88,
+      "12|profile_core": 89,
+      "12|doc_syll": 90,
+      "12|doc_health_check": 91,
+      "12|doc_cccd_copy": 92,
+      "12|doc_degree_copy": 93,
+      "12|account": 94,
+      "12|contract": 95,
+      "12|orientation": 96,
+      "13|profile_core": 97,
+      "13|doc_syll": 98,
+      "13|doc_health_check": 99,
+      "13|doc_cccd_copy": 100,
+      "13|doc_degree_copy": 101,
+      "13|account": 102,
+      "13|contract": 103,
+      "13|orientation": 104,
+      "14|profile_core": 105,
+      "14|doc_syll": 106,
+      "14|doc_health_check": 107,
+      "14|doc_cccd_copy": 108,
+      "14|doc_degree_copy": 109,
+      "14|account": 110,
+      "14|contract": 111,
+      "14|orientation": 112,
+      "15|profile_core": 113,
+      "15|doc_syll": 114,
+      "15|doc_health_check": 115,
+      "15|doc_cccd_copy": 116,
+      "15|doc_degree_copy": 117,
+      "15|account": 118,
+      "15|contract": 119,
+      "15|orientation": 120,
+      "16|profile_core": 121,
+      "16|doc_syll": 122,
+      "16|doc_health_check": 123,
+      "16|doc_cccd_copy": 124,
+      "16|doc_degree_copy": 125,
+      "16|account": 126,
+      "16|contract": 127,
+      "16|orientation": 128,
+      "17|profile_core": 129,
+      "17|doc_syll": 130,
+      "17|doc_health_check": 131,
+      "17|doc_cccd_copy": 132,
+      "17|doc_degree_copy": 133,
+      "17|account": 134,
+      "17|contract": 135,
+      "17|orientation": 136,
+      "18|profile_core": 137,
+      "18|doc_syll": 138,
+      "18|doc_health_check": 139,
+      "18|doc_cccd_copy": 140,
+      "18|doc_degree_copy": 141,
+      "18|account": 142,
+      "18|contract": 143,
+      "18|orientation": 144,
+      "19|profile_core": 145,
+      "19|doc_syll": 146,
+      "19|doc_health_check": 147,
+      "19|doc_cccd_copy": 148,
+      "19|doc_degree_copy": 149,
+      "19|account": 150,
+      "19|contract": 151,
+      "19|orientation": 152,
+      "20|profile_core": 153,
+      "20|doc_syll": 154,
+      "20|doc_health_check": 155,
+      "20|doc_cccd_copy": 156,
+      "20|doc_degree_copy": 157,
+      "20|account": 158,
+      "20|contract": 159,
+      "20|orientation": 160,
+      "21|profile_core": 161,
+      "21|doc_syll": 162,
+      "21|doc_health_check": 163,
+      "21|doc_cccd_copy": 164,
+      "21|doc_degree_copy": 165,
+      "21|account": 166,
+      "21|contract": 167,
+      "21|orientation": 168,
+      "22|profile_core": 169,
+      "22|doc_syll": 170,
+      "22|doc_health_check": 171,
+      "22|doc_cccd_copy": 172,
+      "22|doc_degree_copy": 173,
+      "22|account": 174,
+      "22|contract": 175,
+      "22|orientation": 176,
+      "23|profile_core": 177,
+      "23|doc_syll": 178,
+      "23|doc_health_check": 179,
+      "23|doc_cccd_copy": 180,
+      "23|doc_degree_copy": 181,
+      "23|account": 182,
+      "23|contract": 183,
+      "23|orientation": 184,
+      "24|profile_core": 185,
+      "24|doc_syll": 186,
+      "24|doc_health_check": 187,
+      "24|doc_cccd_copy": 188,
+      "24|doc_degree_copy": 189,
+      "24|account": 190,
+      "24|contract": 191,
+      "24|orientation": 192,
+      "25|profile_core": 193,
+      "25|doc_syll": 194,
+      "25|doc_health_check": 195,
+      "25|doc_cccd_copy": 196,
+      "25|doc_degree_copy": 197,
+      "25|account": 198,
+      "25|contract": 199,
+      "25|orientation": 200,
+      "26|profile_core": 201,
+      "26|doc_syll": 202,
+      "26|doc_health_check": 203,
+      "26|doc_cccd_copy": 204,
+      "26|doc_degree_copy": 205,
+      "26|account": 206,
+      "26|contract": 207,
+      "26|orientation": 208,
+      "27|profile_core": 209,
+      "27|doc_syll": 210,
+      "27|doc_health_check": 211,
+      "27|doc_cccd_copy": 212,
+      "27|doc_degree_copy": 213,
+      "27|account": 214,
+      "27|contract": 215,
+      "27|orientation": 216,
+      "28|profile_core": 217,
+      "28|doc_syll": 218,
+      "28|doc_health_check": 219,
+      "28|doc_cccd_copy": 220,
+      "28|doc_degree_copy": 221,
+      "28|account": 222,
+      "28|contract": 223,
+      "28|orientation": 224,
+      "29|profile_core": 225,
+      "29|doc_syll": 226,
+      "29|doc_health_check": 227,
+      "29|doc_cccd_copy": 228,
+      "29|doc_degree_copy": 229,
+      "29|account": 230,
+      "29|contract": 231,
+      "29|orientation": 232,
+      "30|profile_core": 233,
+      "30|doc_syll": 234,
+      "30|doc_health_check": 235,
+      "30|doc_cccd_copy": 236,
+      "30|doc_degree_copy": 237,
+      "30|account": 238,
+      "30|contract": 239,
+      "30|orientation": 240,
+      "31|profile_core": 241,
+      "31|doc_syll": 242,
+      "31|doc_health_check": 243,
+      "31|doc_cccd_copy": 244,
+      "31|doc_degree_copy": 245,
+      "31|account": 246,
+      "31|contract": 247,
+      "31|orientation": 248,
+      "32|profile_core": 249,
+      "32|doc_syll": 250,
+      "32|doc_health_check": 251,
+      "32|doc_cccd_copy": 252,
+      "32|doc_degree_copy": 253,
+      "32|account": 254,
+      "32|contract": 255,
+      "32|orientation": 256,
+      "33|profile_core": 257,
+      "33|doc_syll": 258,
+      "33|doc_health_check": 259,
+      "33|doc_cccd_copy": 260,
+      "33|doc_degree_copy": 261,
+      "33|account": 262,
+      "33|contract": 263,
+      "33|orientation": 264,
+      "34|profile_core": 265,
+      "34|doc_syll": 266,
+      "34|doc_health_check": 267,
+      "34|doc_cccd_copy": 268,
+      "34|doc_degree_copy": 269,
+      "34|account": 270,
+      "34|contract": 271,
+      "34|orientation": 272,
+      "35|profile_core": 273,
+      "35|doc_syll": 274,
+      "35|doc_health_check": 275,
+      "35|doc_cccd_copy": 276,
+      "35|doc_degree_copy": 277,
+      "35|account": 278,
+      "35|contract": 279,
+      "35|orientation": 280,
+      "36|profile_core": 281,
+      "36|doc_syll": 282,
+      "36|doc_health_check": 283,
+      "36|doc_cccd_copy": 284,
+      "36|doc_degree_copy": 285,
+      "36|account": 286,
+      "36|contract": 287,
+      "36|orientation": 288,
+      "37|profile_core": 289,
+      "37|doc_syll": 290,
+      "37|doc_health_check": 291,
+      "37|doc_cccd_copy": 292,
+      "37|doc_degree_copy": 293,
+      "37|account": 294,
+      "37|contract": 295,
+      "37|orientation": 296,
+      "38|profile_core": 297,
+      "38|doc_syll": 298,
+      "38|doc_health_check": 299,
+      "38|doc_cccd_copy": 300,
+      "38|doc_degree_copy": 301,
+      "38|account": 302,
+      "38|contract": 303,
+      "38|orientation": 304,
+      "39|profile_core": 305,
+      "39|doc_syll": 306,
+      "39|doc_health_check": 307,
+      "39|doc_cccd_copy": 308,
+      "39|doc_degree_copy": 309,
+      "39|account": 310,
+      "39|contract": 311,
+      "39|orientation": 312,
+      "40|profile_core": 313,
+      "40|doc_syll": 314,
+      "40|doc_health_check": 315,
+      "40|doc_cccd_copy": 316,
+      "40|doc_degree_copy": 317,
+      "40|account": 318,
+      "40|contract": 319,
+      "40|orientation": 320,
+      "41|profile_core": 321,
+      "41|doc_syll": 322,
+      "41|doc_health_check": 323,
+      "41|doc_cccd_copy": 324,
+      "41|doc_degree_copy": 325,
+      "41|account": 326,
+      "41|contract": 327,
+      "41|orientation": 328,
+      "42|profile_core": 329,
+      "42|doc_syll": 330,
+      "42|doc_health_check": 331,
+      "42|doc_cccd_copy": 332,
+      "42|doc_degree_copy": 333,
+      "42|account": 334,
+      "42|contract": 335,
+      "42|orientation": 336,
+      "43|profile_core": 337,
+      "43|doc_syll": 338,
+      "43|doc_health_check": 339,
+      "43|doc_cccd_copy": 340,
+      "43|doc_degree_copy": 341,
+      "43|account": 342,
+      "43|contract": 343,
+      "43|orientation": 344,
+      "44|profile_core": 345,
+      "44|doc_syll": 346,
+      "44|doc_health_check": 347,
+      "44|doc_cccd_copy": 348,
+      "44|doc_degree_copy": 349,
+      "44|account": 350,
+      "44|contract": 351,
+      "44|orientation": 352,
+      "45|profile_core": 353,
+      "45|doc_syll": 354,
+      "45|doc_health_check": 355,
+      "45|doc_cccd_copy": 356,
+      "45|doc_degree_copy": 357,
+      "45|account": 358,
+      "45|contract": 359,
+      "45|orientation": 360,
+      "46|profile_core": 361,
+      "46|doc_syll": 362,
+      "46|doc_health_check": 363,
+      "46|doc_cccd_copy": 364,
+      "46|doc_degree_copy": 365,
+      "46|account": 366,
+      "46|contract": 367,
+      "46|orientation": 368,
+      "47|profile_core": 369,
+      "47|doc_syll": 370,
+      "47|doc_health_check": 371,
+      "47|doc_cccd_copy": 372,
+      "47|doc_degree_copy": 373,
+      "47|account": 374,
+      "47|contract": 375,
+      "47|orientation": 376,
+      "48|profile_core": 377,
+      "48|doc_syll": 378,
+      "48|doc_health_check": 379,
+      "48|doc_cccd_copy": 380,
+      "48|doc_degree_copy": 381,
+      "48|account": 382,
+      "48|contract": 383,
+      "48|orientation": 384,
+      "49|profile_core": 385,
+      "49|doc_syll": 386,
+      "49|doc_health_check": 387,
+      "49|doc_cccd_copy": 388,
+      "49|doc_degree_copy": 389,
+      "49|account": 390,
+      "49|contract": 391,
+      "49|orientation": 392,
+      "50|profile_core": 393,
+      "50|doc_syll": 394,
+      "50|doc_health_check": 395,
+      "50|doc_cccd_copy": 396,
+      "50|doc_degree_copy": 397,
+      "50|account": 398,
+      "50|contract": 399,
+      "50|orientation": 400,
+      "51|profile_core": 401,
+      "51|doc_syll": 402,
+      "51|doc_health_check": 403,
+      "51|doc_cccd_copy": 404,
+      "51|doc_degree_copy": 405,
+      "51|account": 406,
+      "51|contract": 407,
+      "51|orientation": 408,
+      "52|profile_core": 409,
+      "52|doc_syll": 410,
+      "52|doc_health_check": 411,
+      "52|doc_cccd_copy": 412,
+      "52|doc_degree_copy": 413,
+      "52|account": 414,
+      "52|contract": 415,
+      "52|orientation": 416,
+      "53|profile_core": 417,
+      "53|doc_syll": 418,
+      "53|doc_health_check": 419,
+      "53|doc_cccd_copy": 420,
+      "53|doc_degree_copy": 421,
+      "53|account": 422,
+      "53|contract": 423,
+      "53|orientation": 424,
+      "54|profile_core": 425,
+      "54|doc_syll": 426,
+      "54|doc_health_check": 427,
+      "54|doc_cccd_copy": 428,
+      "54|doc_degree_copy": 429,
+      "54|account": 430,
+      "54|contract": 431,
+      "54|orientation": 432,
+      "55|profile_core": 433,
+      "55|doc_syll": 434,
+      "55|doc_health_check": 435,
+      "55|doc_cccd_copy": 436,
+      "55|doc_degree_copy": 437,
+      "55|account": 438,
+      "55|contract": 439,
+      "55|orientation": 440,
+      "56|profile_core": 441,
+      "56|doc_syll": 442,
+      "56|doc_health_check": 443,
+      "56|doc_cccd_copy": 444,
+      "56|doc_degree_copy": 445,
+      "56|account": 446,
+      "56|contract": 447,
+      "56|orientation": 448,
+      "57|profile_core": 449,
+      "57|doc_syll": 450,
+      "57|doc_health_check": 451,
+      "57|doc_cccd_copy": 452,
+      "57|doc_degree_copy": 453,
+      "57|account": 454,
+      "57|contract": 455,
+      "57|orientation": 456,
+      "58|profile_core": 457,
+      "58|doc_syll": 458,
+      "58|doc_health_check": 459,
+      "58|doc_cccd_copy": 460,
+      "58|doc_degree_copy": 461,
+      "58|account": 462,
+      "58|contract": 463,
+      "58|orientation": 464,
+      "59|profile_core": 465,
+      "59|doc_syll": 466,
+      "59|doc_health_check": 467,
+      "59|doc_cccd_copy": 468,
+      "59|doc_degree_copy": 469,
+      "59|account": 470,
+      "59|contract": 471,
+      "59|orientation": 472,
+      "60|profile_core": 473,
+      "60|doc_syll": 474,
+      "60|doc_health_check": 475,
+      "60|doc_cccd_copy": 476,
+      "60|doc_degree_copy": 477,
+      "60|account": 478,
+      "60|contract": 479,
+      "60|orientation": 480,
+      "61|profile_core": 481,
+      "61|doc_syll": 482,
+      "61|doc_health_check": 483,
+      "61|doc_cccd_copy": 484,
+      "61|doc_degree_copy": 485,
+      "61|account": 486,
+      "61|contract": 487,
+      "61|orientation": 488,
+      "62|profile_core": 489,
+      "62|doc_syll": 490,
+      "62|doc_health_check": 491,
+      "62|doc_cccd_copy": 492,
+      "62|doc_degree_copy": 493,
+      "62|account": 494,
+      "62|contract": 495,
+      "62|orientation": 496,
+      "63|profile_core": 497,
+      "63|doc_syll": 498,
+      "63|doc_health_check": 499,
+      "63|doc_cccd_copy": 500,
+      "63|doc_degree_copy": 501,
+      "63|account": 502,
+      "63|contract": 503,
+      "63|orientation": 504,
+      "64|profile_core": 505,
+      "64|doc_syll": 506,
+      "64|doc_health_check": 507,
+      "64|doc_cccd_copy": 508,
+      "64|doc_degree_copy": 509,
+      "64|account": 510,
+      "64|contract": 511,
+      "64|orientation": 512
+    },
+    "by_id": {
+      "1": {
+        "case_id": 1,
+        "task_code": "PROFILE_CORE"
+      },
+      "2": {
+        "case_id": 1,
+        "task_code": "DOC_SYLL"
+      },
+      "3": {
+        "case_id": 1,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "4": {
+        "case_id": 1,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "5": {
+        "case_id": 1,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "6": {
+        "case_id": 1,
+        "task_code": "ACCOUNT"
+      },
+      "7": {
+        "case_id": 1,
+        "task_code": "CONTRACT"
+      },
+      "8": {
+        "case_id": 1,
+        "task_code": "ORIENTATION"
+      },
+      "9": {
+        "case_id": 2,
+        "task_code": "PROFILE_CORE"
+      },
+      "10": {
+        "case_id": 2,
+        "task_code": "DOC_SYLL"
+      },
+      "11": {
+        "case_id": 2,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "12": {
+        "case_id": 2,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "13": {
+        "case_id": 2,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "14": {
+        "case_id": 2,
+        "task_code": "ACCOUNT"
+      },
+      "15": {
+        "case_id": 2,
+        "task_code": "CONTRACT"
+      },
+      "16": {
+        "case_id": 2,
+        "task_code": "ORIENTATION"
+      },
+      "17": {
+        "case_id": 3,
+        "task_code": "PROFILE_CORE"
+      },
+      "18": {
+        "case_id": 3,
+        "task_code": "DOC_SYLL"
+      },
+      "19": {
+        "case_id": 3,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "20": {
+        "case_id": 3,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "21": {
+        "case_id": 3,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "22": {
+        "case_id": 3,
+        "task_code": "ACCOUNT"
+      },
+      "23": {
+        "case_id": 3,
+        "task_code": "CONTRACT"
+      },
+      "24": {
+        "case_id": 3,
+        "task_code": "ORIENTATION"
+      },
+      "25": {
+        "case_id": 4,
+        "task_code": "PROFILE_CORE"
+      },
+      "26": {
+        "case_id": 4,
+        "task_code": "DOC_SYLL"
+      },
+      "27": {
+        "case_id": 4,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "28": {
+        "case_id": 4,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "29": {
+        "case_id": 4,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "30": {
+        "case_id": 4,
+        "task_code": "ACCOUNT"
+      },
+      "31": {
+        "case_id": 4,
+        "task_code": "CONTRACT"
+      },
+      "32": {
+        "case_id": 4,
+        "task_code": "ORIENTATION"
+      },
+      "33": {
+        "case_id": 5,
+        "task_code": "PROFILE_CORE"
+      },
+      "34": {
+        "case_id": 5,
+        "task_code": "DOC_SYLL"
+      },
+      "35": {
+        "case_id": 5,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "36": {
+        "case_id": 5,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "37": {
+        "case_id": 5,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "38": {
+        "case_id": 5,
+        "task_code": "ACCOUNT"
+      },
+      "39": {
+        "case_id": 5,
+        "task_code": "CONTRACT"
+      },
+      "40": {
+        "case_id": 5,
+        "task_code": "ORIENTATION"
+      },
+      "41": {
+        "case_id": 6,
+        "task_code": "PROFILE_CORE"
+      },
+      "42": {
+        "case_id": 6,
+        "task_code": "DOC_SYLL"
+      },
+      "43": {
+        "case_id": 6,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "44": {
+        "case_id": 6,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "45": {
+        "case_id": 6,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "46": {
+        "case_id": 6,
+        "task_code": "ACCOUNT"
+      },
+      "47": {
+        "case_id": 6,
+        "task_code": "CONTRACT"
+      },
+      "48": {
+        "case_id": 6,
+        "task_code": "ORIENTATION"
+      },
+      "49": {
+        "case_id": 7,
+        "task_code": "PROFILE_CORE"
+      },
+      "50": {
+        "case_id": 7,
+        "task_code": "DOC_SYLL"
+      },
+      "51": {
+        "case_id": 7,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "52": {
+        "case_id": 7,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "53": {
+        "case_id": 7,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "54": {
+        "case_id": 7,
+        "task_code": "ACCOUNT"
+      },
+      "55": {
+        "case_id": 7,
+        "task_code": "CONTRACT"
+      },
+      "56": {
+        "case_id": 7,
+        "task_code": "ORIENTATION"
+      },
+      "57": {
+        "case_id": 8,
+        "task_code": "PROFILE_CORE"
+      },
+      "58": {
+        "case_id": 8,
+        "task_code": "DOC_SYLL"
+      },
+      "59": {
+        "case_id": 8,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "60": {
+        "case_id": 8,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "61": {
+        "case_id": 8,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "62": {
+        "case_id": 8,
+        "task_code": "ACCOUNT"
+      },
+      "63": {
+        "case_id": 8,
+        "task_code": "CONTRACT"
+      },
+      "64": {
+        "case_id": 8,
+        "task_code": "ORIENTATION"
+      },
+      "65": {
+        "case_id": 9,
+        "task_code": "PROFILE_CORE"
+      },
+      "66": {
+        "case_id": 9,
+        "task_code": "DOC_SYLL"
+      },
+      "67": {
+        "case_id": 9,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "68": {
+        "case_id": 9,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "69": {
+        "case_id": 9,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "70": {
+        "case_id": 9,
+        "task_code": "ACCOUNT"
+      },
+      "71": {
+        "case_id": 9,
+        "task_code": "CONTRACT"
+      },
+      "72": {
+        "case_id": 9,
+        "task_code": "ORIENTATION"
+      },
+      "73": {
+        "case_id": 10,
+        "task_code": "PROFILE_CORE"
+      },
+      "74": {
+        "case_id": 10,
+        "task_code": "DOC_SYLL"
+      },
+      "75": {
+        "case_id": 10,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "76": {
+        "case_id": 10,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "77": {
+        "case_id": 10,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "78": {
+        "case_id": 10,
+        "task_code": "ACCOUNT"
+      },
+      "79": {
+        "case_id": 10,
+        "task_code": "CONTRACT"
+      },
+      "80": {
+        "case_id": 10,
+        "task_code": "ORIENTATION"
+      },
+      "81": {
+        "case_id": 11,
+        "task_code": "PROFILE_CORE"
+      },
+      "82": {
+        "case_id": 11,
+        "task_code": "DOC_SYLL"
+      },
+      "83": {
+        "case_id": 11,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "84": {
+        "case_id": 11,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "85": {
+        "case_id": 11,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "86": {
+        "case_id": 11,
+        "task_code": "ACCOUNT"
+      },
+      "87": {
+        "case_id": 11,
+        "task_code": "CONTRACT"
+      },
+      "88": {
+        "case_id": 11,
+        "task_code": "ORIENTATION"
+      },
+      "89": {
+        "case_id": 12,
+        "task_code": "PROFILE_CORE"
+      },
+      "90": {
+        "case_id": 12,
+        "task_code": "DOC_SYLL"
+      },
+      "91": {
+        "case_id": 12,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "92": {
+        "case_id": 12,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "93": {
+        "case_id": 12,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "94": {
+        "case_id": 12,
+        "task_code": "ACCOUNT"
+      },
+      "95": {
+        "case_id": 12,
+        "task_code": "CONTRACT"
+      },
+      "96": {
+        "case_id": 12,
+        "task_code": "ORIENTATION"
+      },
+      "97": {
+        "case_id": 13,
+        "task_code": "PROFILE_CORE"
+      },
+      "98": {
+        "case_id": 13,
+        "task_code": "DOC_SYLL"
+      },
+      "99": {
+        "case_id": 13,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "100": {
+        "case_id": 13,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "101": {
+        "case_id": 13,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "102": {
+        "case_id": 13,
+        "task_code": "ACCOUNT"
+      },
+      "103": {
+        "case_id": 13,
+        "task_code": "CONTRACT"
+      },
+      "104": {
+        "case_id": 13,
+        "task_code": "ORIENTATION"
+      },
+      "105": {
+        "case_id": 14,
+        "task_code": "PROFILE_CORE"
+      },
+      "106": {
+        "case_id": 14,
+        "task_code": "DOC_SYLL"
+      },
+      "107": {
+        "case_id": 14,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "108": {
+        "case_id": 14,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "109": {
+        "case_id": 14,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "110": {
+        "case_id": 14,
+        "task_code": "ACCOUNT"
+      },
+      "111": {
+        "case_id": 14,
+        "task_code": "CONTRACT"
+      },
+      "112": {
+        "case_id": 14,
+        "task_code": "ORIENTATION"
+      },
+      "113": {
+        "case_id": 15,
+        "task_code": "PROFILE_CORE"
+      },
+      "114": {
+        "case_id": 15,
+        "task_code": "DOC_SYLL"
+      },
+      "115": {
+        "case_id": 15,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "116": {
+        "case_id": 15,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "117": {
+        "case_id": 15,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "118": {
+        "case_id": 15,
+        "task_code": "ACCOUNT"
+      },
+      "119": {
+        "case_id": 15,
+        "task_code": "CONTRACT"
+      },
+      "120": {
+        "case_id": 15,
+        "task_code": "ORIENTATION"
+      },
+      "121": {
+        "case_id": 16,
+        "task_code": "PROFILE_CORE"
+      },
+      "122": {
+        "case_id": 16,
+        "task_code": "DOC_SYLL"
+      },
+      "123": {
+        "case_id": 16,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "124": {
+        "case_id": 16,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "125": {
+        "case_id": 16,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "126": {
+        "case_id": 16,
+        "task_code": "ACCOUNT"
+      },
+      "127": {
+        "case_id": 16,
+        "task_code": "CONTRACT"
+      },
+      "128": {
+        "case_id": 16,
+        "task_code": "ORIENTATION"
+      },
+      "129": {
+        "case_id": 17,
+        "task_code": "PROFILE_CORE"
+      },
+      "130": {
+        "case_id": 17,
+        "task_code": "DOC_SYLL"
+      },
+      "131": {
+        "case_id": 17,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "132": {
+        "case_id": 17,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "133": {
+        "case_id": 17,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "134": {
+        "case_id": 17,
+        "task_code": "ACCOUNT"
+      },
+      "135": {
+        "case_id": 17,
+        "task_code": "CONTRACT"
+      },
+      "136": {
+        "case_id": 17,
+        "task_code": "ORIENTATION"
+      },
+      "137": {
+        "case_id": 18,
+        "task_code": "PROFILE_CORE"
+      },
+      "138": {
+        "case_id": 18,
+        "task_code": "DOC_SYLL"
+      },
+      "139": {
+        "case_id": 18,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "140": {
+        "case_id": 18,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "141": {
+        "case_id": 18,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "142": {
+        "case_id": 18,
+        "task_code": "ACCOUNT"
+      },
+      "143": {
+        "case_id": 18,
+        "task_code": "CONTRACT"
+      },
+      "144": {
+        "case_id": 18,
+        "task_code": "ORIENTATION"
+      },
+      "145": {
+        "case_id": 19,
+        "task_code": "PROFILE_CORE"
+      },
+      "146": {
+        "case_id": 19,
+        "task_code": "DOC_SYLL"
+      },
+      "147": {
+        "case_id": 19,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "148": {
+        "case_id": 19,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "149": {
+        "case_id": 19,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "150": {
+        "case_id": 19,
+        "task_code": "ACCOUNT"
+      },
+      "151": {
+        "case_id": 19,
+        "task_code": "CONTRACT"
+      },
+      "152": {
+        "case_id": 19,
+        "task_code": "ORIENTATION"
+      },
+      "153": {
+        "case_id": 20,
+        "task_code": "PROFILE_CORE"
+      },
+      "154": {
+        "case_id": 20,
+        "task_code": "DOC_SYLL"
+      },
+      "155": {
+        "case_id": 20,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "156": {
+        "case_id": 20,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "157": {
+        "case_id": 20,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "158": {
+        "case_id": 20,
+        "task_code": "ACCOUNT"
+      },
+      "159": {
+        "case_id": 20,
+        "task_code": "CONTRACT"
+      },
+      "160": {
+        "case_id": 20,
+        "task_code": "ORIENTATION"
+      },
+      "161": {
+        "case_id": 21,
+        "task_code": "PROFILE_CORE"
+      },
+      "162": {
+        "case_id": 21,
+        "task_code": "DOC_SYLL"
+      },
+      "163": {
+        "case_id": 21,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "164": {
+        "case_id": 21,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "165": {
+        "case_id": 21,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "166": {
+        "case_id": 21,
+        "task_code": "ACCOUNT"
+      },
+      "167": {
+        "case_id": 21,
+        "task_code": "CONTRACT"
+      },
+      "168": {
+        "case_id": 21,
+        "task_code": "ORIENTATION"
+      },
+      "169": {
+        "case_id": 22,
+        "task_code": "PROFILE_CORE"
+      },
+      "170": {
+        "case_id": 22,
+        "task_code": "DOC_SYLL"
+      },
+      "171": {
+        "case_id": 22,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "172": {
+        "case_id": 22,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "173": {
+        "case_id": 22,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "174": {
+        "case_id": 22,
+        "task_code": "ACCOUNT"
+      },
+      "175": {
+        "case_id": 22,
+        "task_code": "CONTRACT"
+      },
+      "176": {
+        "case_id": 22,
+        "task_code": "ORIENTATION"
+      },
+      "177": {
+        "case_id": 23,
+        "task_code": "PROFILE_CORE"
+      },
+      "178": {
+        "case_id": 23,
+        "task_code": "DOC_SYLL"
+      },
+      "179": {
+        "case_id": 23,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "180": {
+        "case_id": 23,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "181": {
+        "case_id": 23,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "182": {
+        "case_id": 23,
+        "task_code": "ACCOUNT"
+      },
+      "183": {
+        "case_id": 23,
+        "task_code": "CONTRACT"
+      },
+      "184": {
+        "case_id": 23,
+        "task_code": "ORIENTATION"
+      },
+      "185": {
+        "case_id": 24,
+        "task_code": "PROFILE_CORE"
+      },
+      "186": {
+        "case_id": 24,
+        "task_code": "DOC_SYLL"
+      },
+      "187": {
+        "case_id": 24,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "188": {
+        "case_id": 24,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "189": {
+        "case_id": 24,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "190": {
+        "case_id": 24,
+        "task_code": "ACCOUNT"
+      },
+      "191": {
+        "case_id": 24,
+        "task_code": "CONTRACT"
+      },
+      "192": {
+        "case_id": 24,
+        "task_code": "ORIENTATION"
+      },
+      "193": {
+        "case_id": 25,
+        "task_code": "PROFILE_CORE"
+      },
+      "194": {
+        "case_id": 25,
+        "task_code": "DOC_SYLL"
+      },
+      "195": {
+        "case_id": 25,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "196": {
+        "case_id": 25,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "197": {
+        "case_id": 25,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "198": {
+        "case_id": 25,
+        "task_code": "ACCOUNT"
+      },
+      "199": {
+        "case_id": 25,
+        "task_code": "CONTRACT"
+      },
+      "200": {
+        "case_id": 25,
+        "task_code": "ORIENTATION"
+      },
+      "201": {
+        "case_id": 26,
+        "task_code": "PROFILE_CORE"
+      },
+      "202": {
+        "case_id": 26,
+        "task_code": "DOC_SYLL"
+      },
+      "203": {
+        "case_id": 26,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "204": {
+        "case_id": 26,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "205": {
+        "case_id": 26,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "206": {
+        "case_id": 26,
+        "task_code": "ACCOUNT"
+      },
+      "207": {
+        "case_id": 26,
+        "task_code": "CONTRACT"
+      },
+      "208": {
+        "case_id": 26,
+        "task_code": "ORIENTATION"
+      },
+      "209": {
+        "case_id": 27,
+        "task_code": "PROFILE_CORE"
+      },
+      "210": {
+        "case_id": 27,
+        "task_code": "DOC_SYLL"
+      },
+      "211": {
+        "case_id": 27,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "212": {
+        "case_id": 27,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "213": {
+        "case_id": 27,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "214": {
+        "case_id": 27,
+        "task_code": "ACCOUNT"
+      },
+      "215": {
+        "case_id": 27,
+        "task_code": "CONTRACT"
+      },
+      "216": {
+        "case_id": 27,
+        "task_code": "ORIENTATION"
+      },
+      "217": {
+        "case_id": 28,
+        "task_code": "PROFILE_CORE"
+      },
+      "218": {
+        "case_id": 28,
+        "task_code": "DOC_SYLL"
+      },
+      "219": {
+        "case_id": 28,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "220": {
+        "case_id": 28,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "221": {
+        "case_id": 28,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "222": {
+        "case_id": 28,
+        "task_code": "ACCOUNT"
+      },
+      "223": {
+        "case_id": 28,
+        "task_code": "CONTRACT"
+      },
+      "224": {
+        "case_id": 28,
+        "task_code": "ORIENTATION"
+      },
+      "225": {
+        "case_id": 29,
+        "task_code": "PROFILE_CORE"
+      },
+      "226": {
+        "case_id": 29,
+        "task_code": "DOC_SYLL"
+      },
+      "227": {
+        "case_id": 29,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "228": {
+        "case_id": 29,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "229": {
+        "case_id": 29,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "230": {
+        "case_id": 29,
+        "task_code": "ACCOUNT"
+      },
+      "231": {
+        "case_id": 29,
+        "task_code": "CONTRACT"
+      },
+      "232": {
+        "case_id": 29,
+        "task_code": "ORIENTATION"
+      },
+      "233": {
+        "case_id": 30,
+        "task_code": "PROFILE_CORE"
+      },
+      "234": {
+        "case_id": 30,
+        "task_code": "DOC_SYLL"
+      },
+      "235": {
+        "case_id": 30,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "236": {
+        "case_id": 30,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "237": {
+        "case_id": 30,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "238": {
+        "case_id": 30,
+        "task_code": "ACCOUNT"
+      },
+      "239": {
+        "case_id": 30,
+        "task_code": "CONTRACT"
+      },
+      "240": {
+        "case_id": 30,
+        "task_code": "ORIENTATION"
+      },
+      "241": {
+        "case_id": 31,
+        "task_code": "PROFILE_CORE"
+      },
+      "242": {
+        "case_id": 31,
+        "task_code": "DOC_SYLL"
+      },
+      "243": {
+        "case_id": 31,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "244": {
+        "case_id": 31,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "245": {
+        "case_id": 31,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "246": {
+        "case_id": 31,
+        "task_code": "ACCOUNT"
+      },
+      "247": {
+        "case_id": 31,
+        "task_code": "CONTRACT"
+      },
+      "248": {
+        "case_id": 31,
+        "task_code": "ORIENTATION"
+      },
+      "249": {
+        "case_id": 32,
+        "task_code": "PROFILE_CORE"
+      },
+      "250": {
+        "case_id": 32,
+        "task_code": "DOC_SYLL"
+      },
+      "251": {
+        "case_id": 32,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "252": {
+        "case_id": 32,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "253": {
+        "case_id": 32,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "254": {
+        "case_id": 32,
+        "task_code": "ACCOUNT"
+      },
+      "255": {
+        "case_id": 32,
+        "task_code": "CONTRACT"
+      },
+      "256": {
+        "case_id": 32,
+        "task_code": "ORIENTATION"
+      },
+      "257": {
+        "case_id": 33,
+        "task_code": "PROFILE_CORE"
+      },
+      "258": {
+        "case_id": 33,
+        "task_code": "DOC_SYLL"
+      },
+      "259": {
+        "case_id": 33,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "260": {
+        "case_id": 33,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "261": {
+        "case_id": 33,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "262": {
+        "case_id": 33,
+        "task_code": "ACCOUNT"
+      },
+      "263": {
+        "case_id": 33,
+        "task_code": "CONTRACT"
+      },
+      "264": {
+        "case_id": 33,
+        "task_code": "ORIENTATION"
+      },
+      "265": {
+        "case_id": 34,
+        "task_code": "PROFILE_CORE"
+      },
+      "266": {
+        "case_id": 34,
+        "task_code": "DOC_SYLL"
+      },
+      "267": {
+        "case_id": 34,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "268": {
+        "case_id": 34,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "269": {
+        "case_id": 34,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "270": {
+        "case_id": 34,
+        "task_code": "ACCOUNT"
+      },
+      "271": {
+        "case_id": 34,
+        "task_code": "CONTRACT"
+      },
+      "272": {
+        "case_id": 34,
+        "task_code": "ORIENTATION"
+      },
+      "273": {
+        "case_id": 35,
+        "task_code": "PROFILE_CORE"
+      },
+      "274": {
+        "case_id": 35,
+        "task_code": "DOC_SYLL"
+      },
+      "275": {
+        "case_id": 35,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "276": {
+        "case_id": 35,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "277": {
+        "case_id": 35,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "278": {
+        "case_id": 35,
+        "task_code": "ACCOUNT"
+      },
+      "279": {
+        "case_id": 35,
+        "task_code": "CONTRACT"
+      },
+      "280": {
+        "case_id": 35,
+        "task_code": "ORIENTATION"
+      },
+      "281": {
+        "case_id": 36,
+        "task_code": "PROFILE_CORE"
+      },
+      "282": {
+        "case_id": 36,
+        "task_code": "DOC_SYLL"
+      },
+      "283": {
+        "case_id": 36,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "284": {
+        "case_id": 36,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "285": {
+        "case_id": 36,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "286": {
+        "case_id": 36,
+        "task_code": "ACCOUNT"
+      },
+      "287": {
+        "case_id": 36,
+        "task_code": "CONTRACT"
+      },
+      "288": {
+        "case_id": 36,
+        "task_code": "ORIENTATION"
+      },
+      "289": {
+        "case_id": 37,
+        "task_code": "PROFILE_CORE"
+      },
+      "290": {
+        "case_id": 37,
+        "task_code": "DOC_SYLL"
+      },
+      "291": {
+        "case_id": 37,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "292": {
+        "case_id": 37,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "293": {
+        "case_id": 37,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "294": {
+        "case_id": 37,
+        "task_code": "ACCOUNT"
+      },
+      "295": {
+        "case_id": 37,
+        "task_code": "CONTRACT"
+      },
+      "296": {
+        "case_id": 37,
+        "task_code": "ORIENTATION"
+      },
+      "297": {
+        "case_id": 38,
+        "task_code": "PROFILE_CORE"
+      },
+      "298": {
+        "case_id": 38,
+        "task_code": "DOC_SYLL"
+      },
+      "299": {
+        "case_id": 38,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "300": {
+        "case_id": 38,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "301": {
+        "case_id": 38,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "302": {
+        "case_id": 38,
+        "task_code": "ACCOUNT"
+      },
+      "303": {
+        "case_id": 38,
+        "task_code": "CONTRACT"
+      },
+      "304": {
+        "case_id": 38,
+        "task_code": "ORIENTATION"
+      },
+      "305": {
+        "case_id": 39,
+        "task_code": "PROFILE_CORE"
+      },
+      "306": {
+        "case_id": 39,
+        "task_code": "DOC_SYLL"
+      },
+      "307": {
+        "case_id": 39,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "308": {
+        "case_id": 39,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "309": {
+        "case_id": 39,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "310": {
+        "case_id": 39,
+        "task_code": "ACCOUNT"
+      },
+      "311": {
+        "case_id": 39,
+        "task_code": "CONTRACT"
+      },
+      "312": {
+        "case_id": 39,
+        "task_code": "ORIENTATION"
+      },
+      "313": {
+        "case_id": 40,
+        "task_code": "PROFILE_CORE"
+      },
+      "314": {
+        "case_id": 40,
+        "task_code": "DOC_SYLL"
+      },
+      "315": {
+        "case_id": 40,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "316": {
+        "case_id": 40,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "317": {
+        "case_id": 40,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "318": {
+        "case_id": 40,
+        "task_code": "ACCOUNT"
+      },
+      "319": {
+        "case_id": 40,
+        "task_code": "CONTRACT"
+      },
+      "320": {
+        "case_id": 40,
+        "task_code": "ORIENTATION"
+      },
+      "321": {
+        "case_id": 41,
+        "task_code": "PROFILE_CORE"
+      },
+      "322": {
+        "case_id": 41,
+        "task_code": "DOC_SYLL"
+      },
+      "323": {
+        "case_id": 41,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "324": {
+        "case_id": 41,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "325": {
+        "case_id": 41,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "326": {
+        "case_id": 41,
+        "task_code": "ACCOUNT"
+      },
+      "327": {
+        "case_id": 41,
+        "task_code": "CONTRACT"
+      },
+      "328": {
+        "case_id": 41,
+        "task_code": "ORIENTATION"
+      },
+      "329": {
+        "case_id": 42,
+        "task_code": "PROFILE_CORE"
+      },
+      "330": {
+        "case_id": 42,
+        "task_code": "DOC_SYLL"
+      },
+      "331": {
+        "case_id": 42,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "332": {
+        "case_id": 42,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "333": {
+        "case_id": 42,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "334": {
+        "case_id": 42,
+        "task_code": "ACCOUNT"
+      },
+      "335": {
+        "case_id": 42,
+        "task_code": "CONTRACT"
+      },
+      "336": {
+        "case_id": 42,
+        "task_code": "ORIENTATION"
+      },
+      "337": {
+        "case_id": 43,
+        "task_code": "PROFILE_CORE"
+      },
+      "338": {
+        "case_id": 43,
+        "task_code": "DOC_SYLL"
+      },
+      "339": {
+        "case_id": 43,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "340": {
+        "case_id": 43,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "341": {
+        "case_id": 43,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "342": {
+        "case_id": 43,
+        "task_code": "ACCOUNT"
+      },
+      "343": {
+        "case_id": 43,
+        "task_code": "CONTRACT"
+      },
+      "344": {
+        "case_id": 43,
+        "task_code": "ORIENTATION"
+      },
+      "345": {
+        "case_id": 44,
+        "task_code": "PROFILE_CORE"
+      },
+      "346": {
+        "case_id": 44,
+        "task_code": "DOC_SYLL"
+      },
+      "347": {
+        "case_id": 44,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "348": {
+        "case_id": 44,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "349": {
+        "case_id": 44,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "350": {
+        "case_id": 44,
+        "task_code": "ACCOUNT"
+      },
+      "351": {
+        "case_id": 44,
+        "task_code": "CONTRACT"
+      },
+      "352": {
+        "case_id": 44,
+        "task_code": "ORIENTATION"
+      },
+      "353": {
+        "case_id": 45,
+        "task_code": "PROFILE_CORE"
+      },
+      "354": {
+        "case_id": 45,
+        "task_code": "DOC_SYLL"
+      },
+      "355": {
+        "case_id": 45,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "356": {
+        "case_id": 45,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "357": {
+        "case_id": 45,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "358": {
+        "case_id": 45,
+        "task_code": "ACCOUNT"
+      },
+      "359": {
+        "case_id": 45,
+        "task_code": "CONTRACT"
+      },
+      "360": {
+        "case_id": 45,
+        "task_code": "ORIENTATION"
+      },
+      "361": {
+        "case_id": 46,
+        "task_code": "PROFILE_CORE"
+      },
+      "362": {
+        "case_id": 46,
+        "task_code": "DOC_SYLL"
+      },
+      "363": {
+        "case_id": 46,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "364": {
+        "case_id": 46,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "365": {
+        "case_id": 46,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "366": {
+        "case_id": 46,
+        "task_code": "ACCOUNT"
+      },
+      "367": {
+        "case_id": 46,
+        "task_code": "CONTRACT"
+      },
+      "368": {
+        "case_id": 46,
+        "task_code": "ORIENTATION"
+      },
+      "369": {
+        "case_id": 47,
+        "task_code": "PROFILE_CORE"
+      },
+      "370": {
+        "case_id": 47,
+        "task_code": "DOC_SYLL"
+      },
+      "371": {
+        "case_id": 47,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "372": {
+        "case_id": 47,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "373": {
+        "case_id": 47,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "374": {
+        "case_id": 47,
+        "task_code": "ACCOUNT"
+      },
+      "375": {
+        "case_id": 47,
+        "task_code": "CONTRACT"
+      },
+      "376": {
+        "case_id": 47,
+        "task_code": "ORIENTATION"
+      },
+      "377": {
+        "case_id": 48,
+        "task_code": "PROFILE_CORE"
+      },
+      "378": {
+        "case_id": 48,
+        "task_code": "DOC_SYLL"
+      },
+      "379": {
+        "case_id": 48,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "380": {
+        "case_id": 48,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "381": {
+        "case_id": 48,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "382": {
+        "case_id": 48,
+        "task_code": "ACCOUNT"
+      },
+      "383": {
+        "case_id": 48,
+        "task_code": "CONTRACT"
+      },
+      "384": {
+        "case_id": 48,
+        "task_code": "ORIENTATION"
+      },
+      "385": {
+        "case_id": 49,
+        "task_code": "PROFILE_CORE"
+      },
+      "386": {
+        "case_id": 49,
+        "task_code": "DOC_SYLL"
+      },
+      "387": {
+        "case_id": 49,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "388": {
+        "case_id": 49,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "389": {
+        "case_id": 49,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "390": {
+        "case_id": 49,
+        "task_code": "ACCOUNT"
+      },
+      "391": {
+        "case_id": 49,
+        "task_code": "CONTRACT"
+      },
+      "392": {
+        "case_id": 49,
+        "task_code": "ORIENTATION"
+      },
+      "393": {
+        "case_id": 50,
+        "task_code": "PROFILE_CORE"
+      },
+      "394": {
+        "case_id": 50,
+        "task_code": "DOC_SYLL"
+      },
+      "395": {
+        "case_id": 50,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "396": {
+        "case_id": 50,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "397": {
+        "case_id": 50,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "398": {
+        "case_id": 50,
+        "task_code": "ACCOUNT"
+      },
+      "399": {
+        "case_id": 50,
+        "task_code": "CONTRACT"
+      },
+      "400": {
+        "case_id": 50,
+        "task_code": "ORIENTATION"
+      },
+      "401": {
+        "case_id": 51,
+        "task_code": "PROFILE_CORE"
+      },
+      "402": {
+        "case_id": 51,
+        "task_code": "DOC_SYLL"
+      },
+      "403": {
+        "case_id": 51,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "404": {
+        "case_id": 51,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "405": {
+        "case_id": 51,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "406": {
+        "case_id": 51,
+        "task_code": "ACCOUNT"
+      },
+      "407": {
+        "case_id": 51,
+        "task_code": "CONTRACT"
+      },
+      "408": {
+        "case_id": 51,
+        "task_code": "ORIENTATION"
+      },
+      "409": {
+        "case_id": 52,
+        "task_code": "PROFILE_CORE"
+      },
+      "410": {
+        "case_id": 52,
+        "task_code": "DOC_SYLL"
+      },
+      "411": {
+        "case_id": 52,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "412": {
+        "case_id": 52,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "413": {
+        "case_id": 52,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "414": {
+        "case_id": 52,
+        "task_code": "ACCOUNT"
+      },
+      "415": {
+        "case_id": 52,
+        "task_code": "CONTRACT"
+      },
+      "416": {
+        "case_id": 52,
+        "task_code": "ORIENTATION"
+      },
+      "417": {
+        "case_id": 53,
+        "task_code": "PROFILE_CORE"
+      },
+      "418": {
+        "case_id": 53,
+        "task_code": "DOC_SYLL"
+      },
+      "419": {
+        "case_id": 53,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "420": {
+        "case_id": 53,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "421": {
+        "case_id": 53,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "422": {
+        "case_id": 53,
+        "task_code": "ACCOUNT"
+      },
+      "423": {
+        "case_id": 53,
+        "task_code": "CONTRACT"
+      },
+      "424": {
+        "case_id": 53,
+        "task_code": "ORIENTATION"
+      },
+      "425": {
+        "case_id": 54,
+        "task_code": "PROFILE_CORE"
+      },
+      "426": {
+        "case_id": 54,
+        "task_code": "DOC_SYLL"
+      },
+      "427": {
+        "case_id": 54,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "428": {
+        "case_id": 54,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "429": {
+        "case_id": 54,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "430": {
+        "case_id": 54,
+        "task_code": "ACCOUNT"
+      },
+      "431": {
+        "case_id": 54,
+        "task_code": "CONTRACT"
+      },
+      "432": {
+        "case_id": 54,
+        "task_code": "ORIENTATION"
+      },
+      "433": {
+        "case_id": 55,
+        "task_code": "PROFILE_CORE"
+      },
+      "434": {
+        "case_id": 55,
+        "task_code": "DOC_SYLL"
+      },
+      "435": {
+        "case_id": 55,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "436": {
+        "case_id": 55,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "437": {
+        "case_id": 55,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "438": {
+        "case_id": 55,
+        "task_code": "ACCOUNT"
+      },
+      "439": {
+        "case_id": 55,
+        "task_code": "CONTRACT"
+      },
+      "440": {
+        "case_id": 55,
+        "task_code": "ORIENTATION"
+      },
+      "441": {
+        "case_id": 56,
+        "task_code": "PROFILE_CORE"
+      },
+      "442": {
+        "case_id": 56,
+        "task_code": "DOC_SYLL"
+      },
+      "443": {
+        "case_id": 56,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "444": {
+        "case_id": 56,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "445": {
+        "case_id": 56,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "446": {
+        "case_id": 56,
+        "task_code": "ACCOUNT"
+      },
+      "447": {
+        "case_id": 56,
+        "task_code": "CONTRACT"
+      },
+      "448": {
+        "case_id": 56,
+        "task_code": "ORIENTATION"
+      },
+      "449": {
+        "case_id": 57,
+        "task_code": "PROFILE_CORE"
+      },
+      "450": {
+        "case_id": 57,
+        "task_code": "DOC_SYLL"
+      },
+      "451": {
+        "case_id": 57,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "452": {
+        "case_id": 57,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "453": {
+        "case_id": 57,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "454": {
+        "case_id": 57,
+        "task_code": "ACCOUNT"
+      },
+      "455": {
+        "case_id": 57,
+        "task_code": "CONTRACT"
+      },
+      "456": {
+        "case_id": 57,
+        "task_code": "ORIENTATION"
+      },
+      "457": {
+        "case_id": 58,
+        "task_code": "PROFILE_CORE"
+      },
+      "458": {
+        "case_id": 58,
+        "task_code": "DOC_SYLL"
+      },
+      "459": {
+        "case_id": 58,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "460": {
+        "case_id": 58,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "461": {
+        "case_id": 58,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "462": {
+        "case_id": 58,
+        "task_code": "ACCOUNT"
+      },
+      "463": {
+        "case_id": 58,
+        "task_code": "CONTRACT"
+      },
+      "464": {
+        "case_id": 58,
+        "task_code": "ORIENTATION"
+      },
+      "465": {
+        "case_id": 59,
+        "task_code": "PROFILE_CORE"
+      },
+      "466": {
+        "case_id": 59,
+        "task_code": "DOC_SYLL"
+      },
+      "467": {
+        "case_id": 59,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "468": {
+        "case_id": 59,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "469": {
+        "case_id": 59,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "470": {
+        "case_id": 59,
+        "task_code": "ACCOUNT"
+      },
+      "471": {
+        "case_id": 59,
+        "task_code": "CONTRACT"
+      },
+      "472": {
+        "case_id": 59,
+        "task_code": "ORIENTATION"
+      },
+      "473": {
+        "case_id": 60,
+        "task_code": "PROFILE_CORE"
+      },
+      "474": {
+        "case_id": 60,
+        "task_code": "DOC_SYLL"
+      },
+      "475": {
+        "case_id": 60,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "476": {
+        "case_id": 60,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "477": {
+        "case_id": 60,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "478": {
+        "case_id": 60,
+        "task_code": "ACCOUNT"
+      },
+      "479": {
+        "case_id": 60,
+        "task_code": "CONTRACT"
+      },
+      "480": {
+        "case_id": 60,
+        "task_code": "ORIENTATION"
+      },
+      "481": {
+        "case_id": 61,
+        "task_code": "PROFILE_CORE"
+      },
+      "482": {
+        "case_id": 61,
+        "task_code": "DOC_SYLL"
+      },
+      "483": {
+        "case_id": 61,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "484": {
+        "case_id": 61,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "485": {
+        "case_id": 61,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "486": {
+        "case_id": 61,
+        "task_code": "ACCOUNT"
+      },
+      "487": {
+        "case_id": 61,
+        "task_code": "CONTRACT"
+      },
+      "488": {
+        "case_id": 61,
+        "task_code": "ORIENTATION"
+      },
+      "489": {
+        "case_id": 62,
+        "task_code": "PROFILE_CORE"
+      },
+      "490": {
+        "case_id": 62,
+        "task_code": "DOC_SYLL"
+      },
+      "491": {
+        "case_id": 62,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "492": {
+        "case_id": 62,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "493": {
+        "case_id": 62,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "494": {
+        "case_id": 62,
+        "task_code": "ACCOUNT"
+      },
+      "495": {
+        "case_id": 62,
+        "task_code": "CONTRACT"
+      },
+      "496": {
+        "case_id": 62,
+        "task_code": "ORIENTATION"
+      },
+      "497": {
+        "case_id": 63,
+        "task_code": "PROFILE_CORE"
+      },
+      "498": {
+        "case_id": 63,
+        "task_code": "DOC_SYLL"
+      },
+      "499": {
+        "case_id": 63,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "500": {
+        "case_id": 63,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "501": {
+        "case_id": 63,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "502": {
+        "case_id": 63,
+        "task_code": "ACCOUNT"
+      },
+      "503": {
+        "case_id": 63,
+        "task_code": "CONTRACT"
+      },
+      "504": {
+        "case_id": 63,
+        "task_code": "ORIENTATION"
+      },
+      "505": {
+        "case_id": 64,
+        "task_code": "PROFILE_CORE"
+      },
+      "506": {
+        "case_id": 64,
+        "task_code": "DOC_SYLL"
+      },
+      "507": {
+        "case_id": 64,
+        "task_code": "DOC_HEALTH_CHECK"
+      },
+      "508": {
+        "case_id": 64,
+        "task_code": "DOC_CCCD_COPY"
+      },
+      "509": {
+        "case_id": 64,
+        "task_code": "DOC_DEGREE_COPY"
+      },
+      "510": {
+        "case_id": 64,
+        "task_code": "ACCOUNT"
+      },
+      "511": {
+        "case_id": 64,
+        "task_code": "CONTRACT"
+      },
+      "512": {
+        "case_id": 64,
+        "task_code": "ORIENTATION"
+      }
+    }
+  }
+}
