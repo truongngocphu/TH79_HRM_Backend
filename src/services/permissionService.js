@@ -10,15 +10,20 @@ function isUserDocument(value) {
 
 async function resolveUser(userOrId) {
   if (isUserDocument(userOrId)) return userOrId;
+  const strId = String(userOrId || '').trim();
+  if (!strId) return null;
 
-  const clauses = [];
-  const variants = idVariants(userOrId);
-  if (variants.length) clauses.push({ id: { $in: variants } });
-  if (mongoose.isValidObjectId(String(userOrId || ''))) {
-    clauses.push({ _id: new mongoose.Types.ObjectId(String(userOrId)) });
+  if (mongoose.isValidObjectId(strId)) {
+    const byMongoId = await Users.findById(strId).lean();
+    if (byMongoId) return byMongoId;
   }
-  if (!clauses.length) return null;
-  return Users.findOne(clauses.length === 1 ? clauses[0] : { $or: clauses }).lean();
+
+  const variants = idVariants(userOrId);
+  const clauses = [];
+  if (variants.length) clauses.push({ id: { $in: variants } });
+  clauses.push({ username: strId }, { email: strId });
+
+  return Users.findOne({ $or: clauses }).lean();
 }
 
 export async function permissionSnapshot(userOrId) {

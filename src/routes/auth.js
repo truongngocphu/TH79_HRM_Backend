@@ -11,8 +11,7 @@ import { idVariants } from '../utils/legacyId.js';
 const router = Router();
 
 function authSubject(user) {
-  if (user?.id !== null && user?.id !== undefined && user?.id !== '') return user.id;
-  return user?._id ? String(user._id) : null;
+  return user?._id ? String(user._id) : (user?.id !== undefined ? String(user.id) : null);
 }
 
 function safeAuth(auth) {
