@@ -13,25 +13,24 @@ async function resolveUser(userOrId) {
   const strId = String(userOrId || '').trim();
   if (!strId) return null;
 
+  const clauses = [];
   if (mongoose.isValidObjectId(strId)) {
-    const byMongoId = await Users.findById(strId).lean();
-    if (byMongoId) return byMongoId;
+    try {
+      clauses.push({ _id: new mongoose.Types.ObjectId(strId) });
+    } catch {}
   }
-
-  const byStringId = await Users.findOne({ _id: strId }).lean();
-  if (byStringId) return byStringId;
+  clauses.push({ _id: strId });
 
   const variants = idVariants(userOrId);
-  const clauses = [];
   if (variants.length) clauses.push({ id: { $in: variants } });
   clauses.push({ username: strId }, { email: strId });
 
   const activeUser = await Users.findOne({
     $or: clauses,
-    status: { $in: ['active', '1', 1, true] }
+    status: { $in: ['active', '1', 1, true, undefined, null] }
   }).lean();
-  if (activeUser) return activeUser;
 
+  if (activeUser) return activeUser;
   return Users.findOne({ $or: clauses }).lean();
 }
 
