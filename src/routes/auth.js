@@ -145,7 +145,7 @@ router.post('/login', async (req, res, next) => {
       description: 'Đăng nhập hệ thống thành công'
     });
 
-    return res.json({ user: safeAuth(snapshot) });
+    return res.json({ user: safeAuth(snapshot), token });
   } catch (error) { next(error); }
 });
 
