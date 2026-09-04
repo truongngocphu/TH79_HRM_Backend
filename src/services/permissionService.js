@@ -25,6 +25,20 @@ async function resolveUser(userOrId) {
   if (variants.length) clauses.push({ id: { $in: variants } });
   clauses.push({ username: strId }, { email: strId });
 
+  try {
+    const rawColl = Users.collection;
+    if (rawColl) {
+      const activeUser = await rawColl.findOne({
+        $or: clauses,
+        status: { $in: ['active', '1', 1, true, undefined, null] }
+      });
+      if (activeUser) return activeUser;
+
+      const anyUser = await rawColl.findOne({ $or: clauses });
+      if (anyUser) return anyUser;
+    }
+  } catch {}
+
   const activeUser = await Users.findOne({
     $or: clauses,
     status: { $in: ['active', '1', 1, true, undefined, null] }
