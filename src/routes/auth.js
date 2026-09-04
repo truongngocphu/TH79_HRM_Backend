@@ -42,13 +42,18 @@ router.post('/login', async (req, res, next) => {
 
     let ok = false;
     if (user?.password_hash) {
-      let hash = String(user.password_hash);
-      // PHP bcrypt hashes use $2y$; bcryptjs understands the equivalent $2b$ form.
-      if (hash.startsWith('$2y$')) hash = '$2b$' + hash.slice(4);
-      try { ok = await bcrypt.compare(password, hash); } catch { ok = false; }
+      let hash = String(user.password_hash).trim();
+      if (hash.startsWith('$2y$') || hash.startsWith('$2a$')) hash = '$2b$' + hash.slice(4);
+      try {
+        ok = await bcrypt.compare(password, hash);
+      } catch (err) {
+        console.error('Bcrypt compare error:', err);
+        ok = false;
+      }
     }
 
     if (!ok) {
+      console.log(`[LOGIN FAILED] user=${user?.username || login}, hasHash=${Boolean(user?.password_hash)}`);
       req.auth = null;
       await audit(req, { module: 'auth', action: 'login_failed', description: 'Đăng nhập thất bại', newValues: { login } });
       return res.status(401).json({ message: 'Tài khoản hoặc mật khẩu không đúng.' });

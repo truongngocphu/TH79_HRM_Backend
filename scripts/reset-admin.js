@@ -9,20 +9,20 @@ const password = process.argv[3] || 'Admin@123456';
 await connectDb();
 const hash = await bcrypt.hash(password, 12);
 
-// Tìm tài khoản theo username hoặc email (hoặc không phân biệt hoa thường)
 const filter = {
   $or: [
     { username: new RegExp(`^${login}$`, 'i') },
     { email: new RegExp(`^${login}$`, 'i') },
+    { is_super_admin: 1 },
     { username: 'admin' }
   ]
 };
 
-let user = await Users.findOne(filter).lean();
+const count = await Users.countDocuments(filter);
 
-if (!user) {
-  console.log(`⚠️ Không tìm thấy tài khoản '${login}'. Đang khởi tạo tài khoản Admin mới...`);
-  const newUser = await Users.create({
+if (count === 0) {
+  console.log(`⚠️ Chưa có tài khoản admin. Đang khởi tạo tài khoản mới...`);
+  await Users.create({
     id: 1,
     username: 'admin',
     email: 'admin@daututh79.com',
@@ -33,10 +33,7 @@ if (!user) {
     created_at: new Date(),
     updated_at: new Date()
   });
-  console.log(`\n✅ ĐÃ TẠO MỚI TÀI KHOẢN ADMIN:`);
-  console.log(`👉 Username : admin`);
-  console.log(`👉 Email    : admin@daututh79.com`);
-  console.log(`👉 Mật khẩu : ${password}\n`);
+  console.log(`\n✅ TẠO MỚI TÀI KHOẢN ADMIN THÀNH CÔNG!`);
 } else {
   await Users.updateMany(filter, {
     $set: {
@@ -46,15 +43,12 @@ if (!user) {
       updated_at: new Date()
     }
   });
-
-  const updatedUsers = await Users.find(filter).lean();
-  console.log(`\n✅ ĐÃ ĐẶT LẠI MẬT KHẨU THÀNH CÔNG CHO ${updatedUsers.length} TÀI KHOẢN:`);
-  for (const u of updatedUsers) {
-    console.log(`👉 Username : ${u.username}`);
-    console.log(`👉 Email    : ${u.email}`);
-    console.log(`👉 Mật khẩu : ${password}`);
-  }
-  console.log('');
+  console.log(`\n✅ ĐÃ CẬP NHẬT MẬT KHẨU CHO ${count} TÀI KHOẢN ADMIN TRONG DB!`);
 }
+
+console.log(`-------------------------------------------`);
+console.log(`👉 Tên đăng nhập : admin`);
+console.log(`👉 Mật khẩu mới  : ${password}`);
+console.log(`-------------------------------------------\n`);
 
 await mongoose.disconnect();
