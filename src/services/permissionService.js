@@ -18,10 +18,19 @@ async function resolveUser(userOrId) {
     if (byMongoId) return byMongoId;
   }
 
+  const byStringId = await Users.findOne({ _id: strId }).lean();
+  if (byStringId) return byStringId;
+
   const variants = idVariants(userOrId);
   const clauses = [];
   if (variants.length) clauses.push({ id: { $in: variants } });
   clauses.push({ username: strId }, { email: strId });
+
+  const activeUser = await Users.findOne({
+    $or: clauses,
+    status: { $in: ['active', '1', 1, true] }
+  }).lean();
+  if (activeUser) return activeUser;
 
   return Users.findOne({ $or: clauses }).lean();
 }
