@@ -4,3 +4,7 @@ uploads/*
 !uploads/.gitkeep
 npm-debug.log*
 .DS_Store
+deploy/
+ecosystem.config.*
+data-backup/
+

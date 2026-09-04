@@ -36,7 +36,7 @@ router.post('/login', async (req, res, next) => {
 
     const user = await Users.findOne({
       $or: [{ username: login }, { email: login }],
-      status: 'active'
+      $or: [{ status: { $in: ['active', '1', 1, true] } }, { status: { $exists: false } }]
     }).lean();
 
     let ok = false;
@@ -117,7 +117,8 @@ router.get('/session', async (req, res) => {
     const payload = jwt.verify(token, env.jwtSecret);
     const snapshot = await permissionSnapshot(payload.uid);
 
-    if (!snapshot?.user || snapshot.user.status !== 'active') {
+    const isActive = ['active', '1', 1, true].includes(snapshot?.user?.status) || snapshot?.user?.status === undefined;
+    if (!snapshot?.user || !isActive) {
       res.clearCookie('th79_token', {
         httpOnly: true,
         sameSite: env.cookieSameSite,
