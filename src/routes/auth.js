@@ -34,8 +34,9 @@ router.post('/login', async (req, res, next) => {
     const password = String(req.body?.password || '');
     if (!login || !password) return res.status(400).json({ message: 'Vui lòng nhập tài khoản và mật khẩu.' });
 
+    const loginRegex = new RegExp(`^${login.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&')}$`, 'i');
     const user = await Users.findOne({
-      $or: [{ username: login }, { email: login }],
+      $or: [{ username: loginRegex }, { email: loginRegex }],
       $or: [{ status: { $in: ['active', '1', 1, true] } }, { status: { $exists: false } }]
     }).lean();
 
